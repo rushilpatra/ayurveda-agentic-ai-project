@@ -1,0 +1,174 @@
+[
+  {
+    "herb": "Ashwagandha",
+    "resolved": true,
+    "compatible": true,
+    "score": 1.0,
+    "reasons": [
+      "pacifies kapha, vata"
+    ],
+    "evidence": [
+      "(Ashwagandha -pacifies-> kapha) [amidha]",
+      "(Ashwagandha -pacifies-> vata) [amidha]",
+      "(Ashwagandha -has_virya-> ushna) [amidha]"
+    ],
+    "properties": {
+      "rasa": [
+        "tikta",
+        "kashaya"
+      ],
+      "guna": [
+        "guru",
+        "snigdha"
+      ],
+      "virya": "ushna",
+      "vipaka": "madhura",
+      "pacifies": [
+        "vata",
+        "kapha"
+      ],
+      "aggravates": [
+        "pitta"
+      ],
+      "indications": [
+        "kshaya",
+        "daurbalya",
+        "vata vyadhi",
+        "klaibya"
+      ],
+      "botanical_name": "Withania somnifera"
+    }
+  },
+  {
+    "herb": "Ashwagandha",
+    "resolved": true,
+    "compatible": false,
+    "score": -0.5,
+    "reasons": [
+      "AGGRAVATES pitta"
+    ],
+    "evidence": [
+      "(Ashwagandha -aggravates-> pitta) [amidha]",
+      "(Ashwagandha -has_virya-> ushna) [amidha]"
+    ],
+    "properties": {
+      "rasa": [
+        "tikta",
+        "kashaya"
+      ],
+      "guna": [
+        "guru",
+        "snigdha"
+      ],
+      "virya": "ushna",
+      "vipaka": "madhura",
+      "pacifies": [
+        "vata",
+        "kapha"
+      ],
+      "aggravates": [
+        "pitta"
+      ],
+      "indications": [
+        "kshaya",
+        "daurbalya",
+        "vata vyadhi",
+        "klaibya"
+      ],
+      "botanical_name": "Withania somnifera"
+    }
+  },
+  {
+    "herb": "Guggulu",
+    "resolved": true,
+    "compatible": true,
+    "score": 1.0,
+    "reasons": [
+      "pacifies kapha"
+    ],
+    "evidence": [
+      "(Guggulu -pacifies-> kapha) [amidha]",
+      "(Guggulu -has_virya-> ushna) [amidha]"
+    ],
+    "properties": {
+      "rasa": [
+        "tikta",
+        "katu"
+      ],
+      "guna": [
+        "laghu",
+        "ruksha"
+      ],
+      "virya": "ushna",
+      "vipaka": "katu",
+      "pacifies": [
+        "kapha",
+        "vata"
+      ],
+      "aggravates": [
+        "pitta"
+      ],
+      "indications": [
+        "medoroga",
+        "amavata",
+        "vatarakta",
+        "granthi",
+        "kushta"
+      ],
+      "botanical_name": "Commiphora mukul"
+    }
+  },
+  {
+    "herb": "Tulsi",
+    "resolved": true,
+    "compatible": true,
+    "score": 1.5,
+    "reasons": [
+      "pacifies kapha, vata",
+      "explicitly indicated for kasa"
+    ],
+    "evidence": [
+      "(Tulsi -pacifies-> kapha) [amidha]",
+      "(Tulsi -pacifies-> vata) [amidha]",
+      "(Tulsi -has_virya-> ushna) [amidha]",
+      "(Tulsi -indicated_for-> kasa) [amidha]"
+    ],
+    "properties": {
+      "rasa": [
+        "katu",
+        "tikta"
+      ],
+      "guna": [
+        "laghu",
+        "ruksha"
+      ],
+      "virya": "ushna",
+      "vipaka": "katu",
+      "pacifies": [
+        "kapha",
+        "vata"
+      ],
+      "aggravates": [
+        "pitta"
+      ],
+      "indications": [
+        "kasa",
+        "shwasa",
+        "jwara",
+        "hikka"
+      ],
+      "botanical_name": "Ocimum sanctum"
+    }
+  },
+  {
+    "herb": "fish oil",
+    "resolved": false,
+    "compatible": null,
+    "score": 0.0,
+    "reasons": [
+      "'fish oil' does not resolve to any of the 360 herbs in the Amidha database"
+    ],
+    "evidence": [],
+    "properties": {}
+  }
+]

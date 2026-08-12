@@ -1,0 +1,37 @@
+{
+  "stage": "smoke",
+  "config": {
+    "name": "smoke",
+    "n_cases": 20,
+    "max_questions": 15,
+    "tau": 0.5,
+    "noise": 0.05,
+    "omission_rate": 0.1,
+    "seed": 0
+  },
+  "n_conditions": 446,
+  "n_features": 977,
+  "keep_min": 2,
+  "agents": [
+    "B1-full-information",
+    "B4-prior-only",
+    "B3-random",
+    "B5-greedy-frequency",
+    "B7-max-eig",
+    "B8-max-eig-no-abstain"
+  ],
+  "runs_completed": 120,
+  "runs_expected": 120,
+  "runs_this_session": 120,
+  "elapsed_seconds": 10.0,
+  "seconds_per_run": 0.08333,
+  "stopped_early": false,
+  "reason": "completed",
+  "peak_rss_gb": 0.48,
+  "environment": {
+    "chip": "Apple M4",
+    "memory_gb": 16.0,
+    "os_version": "15.6.1"
+  },
+  "trajectories": "results/checkpoints/smoke_trajectories.jsonl"
+}

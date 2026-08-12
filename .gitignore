@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing/cache
+.pytest_cache/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+*.safetensors

@@ -1,0 +1,44 @@
+{
+  "config": {
+    "n_calib": 400,
+    "n_test": 400,
+    "budget": 20,
+    "env_noise": 0.15,
+    "assumed_noise": 0.05,
+    "omission": 0.25,
+    "target_risk": 0.2
+  },
+  "fitted": {
+    "temperature": 1.7,
+    "calibration_ece_at_temperature": 0.0337,
+    "tau": 0.3216,
+    "target_selective_risk": 0.2,
+    "achieved_risk_on_calibration": 0.2,
+    "target_met": true,
+    "effective_noise_mle": 0.18,
+    "true_env_noise": 0.15,
+    "assumed_noise": 0.05
+  },
+  "test_uncalibrated": {
+    "temperature": 1.0,
+    "tau": 0.5,
+    "coverage": 0.485,
+    "accuracy_overall": 0.365,
+    "accuracy_selective": 0.7526,
+    "selective_risk": 0.2474,
+    "ece": 0.1529,
+    "brier": 0.1249,
+    "aurc": 0.2622
+  },
+  "test_calibrated": {
+    "temperature": 1.7,
+    "tau": 0.3216,
+    "coverage": 0.4325,
+    "accuracy_overall": 0.3525,
+    "accuracy_selective": 0.815,
+    "selective_risk": 0.185,
+    "ece": 0.0293,
+    "brier": 0.0825,
+    "aurc": 0.2617
+  }
+}

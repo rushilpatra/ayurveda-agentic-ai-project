@@ -1,0 +1,18 @@
+{
+  "backend": "rank_bm25",
+  "n_passages": 1889,
+  "by_source": {
+    "ayurveda-llm": 1529,
+    "amidha": 360
+  },
+  "passages_with_condition_mention": 800,
+  "n_features_with_evidence": 785,
+  "mean_feature_coverage": 0.018,
+  "precision": 0.0734,
+  "recall": 0.0643,
+  "f1": 0.0685,
+  "curated_base_rate": 0.0249,
+  "lift_over_base_rate": 2.95,
+  "raw_agreement_UNINFORMATIVE": 0.9565,
+  "all_zeros_would_score": 0.9751
+}

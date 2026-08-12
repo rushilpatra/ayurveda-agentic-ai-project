@@ -1,0 +1,4891 @@
+{
+ "features": [
+  "Age Group::20 40 years",
+  "Age Group::20 50 years",
+  "Age Group::20 60 years",
+  "Age Group::30 50 years",
+  "Age Group::30 60 years",
+  "Age Group::30 70 years",
+  "Age Group::40 60 years",
+  "Age Group::40 70 years",
+  "Age Group::40 80 years",
+  "Age Group::50 80 years",
+  "Age Group::60 years",
+  "Age Group::adolescents to adults",
+  "Age Group::adult",
+  "Age Group::adults",
+  "Age Group::adults older",
+  "Age Group::adults young",
+  "Age Group::all age groups",
+  "Age Group::all ages",
+  "Age Group::childhood",
+  "Age Group::childhood to adult",
+  "Age Group::childhood to adulthood",
+  "Age Group::children",
+  "Age Group::elderly",
+  "Age Group::pregnant women",
+  "Age Group::teens",
+  "Allergies (Food/Env)::airborne pathogens",
+  "Allergies (Food/Env)::alcohol",
+  "Allergies (Food/Env)::allergies dust",
+  "Allergies (Food/Env)::certain foods",
+  "Allergies (Food/Env)::contaminated food",
+  "Allergies (Food/Env)::dairy",
+  "Allergies (Food/Env)::dust",
+  "Allergies (Food/Env)::fatty foods",
+  "Allergies (Food/Env)::fish",
+  "Allergies (Food/Env)::gluten",
+  "Allergies (Food/Env)::high fat foods",
+  "Allergies (Food/Env)::mosquito allergens",
+  "Allergies (Food/Env)::mosquito bites",
+  "Allergies (Food/Env)::mosquitoes",
+  "Allergies (Food/Env)::pollen",
+  "Allergies (Food/Env)::pollens",
+  "Allergies (Food/Env)::pollution",
+  "Allergies (Food/Env)::seafood",
+  "Allergies (Food/Env)::smoke",
+  "Allergies (Food/Env)::smoking",
+  "Allergies (Food/Env)::sunlight",
+  "Allergies (Food/Env)::tobacco",
+  "Allergies (Food/Env)::viral exposure",
+  "Constitution/Prakriti::kapha",
+  "Constitution/Prakriti::kapha pitta",
+  "Constitution/Prakriti::kapha prakriti",
+  "Constitution/Prakriti::kapha vata",
+  "Constitution/Prakriti::pitta",
+  "Constitution/Prakriti::pitta kapha",
+  "Constitution/Prakriti::pitta prakriti",
+  "Constitution/Prakriti::pitta vata",
+  "Constitution/Prakriti::vata",
+  "Constitution/Prakriti::vata kapha",
+  "Constitution/Prakriti::vata pitta",
+  "Constitution/Prakriti::vata prakriti",
+  "Cultural Preferences::avoids alcohol",
+  "Cultural Preferences::avoids alcohol and caffeine",
+  "Cultural Preferences::avoids alcohol and smoking",
+  "Cultural Preferences::avoids allergens",
+  "Cultural Preferences::avoids animal contact",
+  "Cultural Preferences::avoids carcinogens",
+  "Cultural Preferences::avoids close contact",
+  "Cultural Preferences::avoids cold",
+  "Cultural Preferences::avoids cold environments",
+  "Cultural Preferences::avoids cold foods",
+  "Cultural Preferences::avoids contaminated food",
+  "Cultural Preferences::avoids contaminated soil",
+  "Cultural Preferences::avoids contaminated water",
+  "Cultural Preferences::avoids copper rich foods",
+  "Cultural Preferences::avoids crowded areas",
+  "Cultural Preferences::avoids crowded places",
+  "Cultural Preferences::avoids dehydration",
+  "Cultural Preferences::avoids environmental stressors",
+  "Cultural Preferences::avoids environmental toxins",
+  "Cultural Preferences::avoids excessive iodine",
+  "Cultural Preferences::avoids excessive salt",
+  "Cultural Preferences::avoids exposure to infected individuals",
+  "Cultural Preferences::avoids exposure to sick individuals",
+  "Cultural Preferences::avoids eye strain",
+  "Cultural Preferences::avoids foods high in arginine",
+  "Cultural Preferences::avoids fried foods",
+  "Cultural Preferences::avoids harsh chemicals",
+  "Cultural Preferences::avoids heavy lifting",
+  "Cultural Preferences::avoids heavy meals",
+  "Cultural Preferences::avoids heavy physical activity",
+  "Cultural Preferences::avoids high calcium foods",
+  "Cultural Preferences::avoids high fat foods",
+  "Cultural Preferences::avoids high protein foods",
+  "Cultural Preferences::avoids high salt foods",
+  "Cultural Preferences::avoids high sodium foods",
+  "Cultural Preferences::avoids high stress environments",
+  "Cultural Preferences::avoids high stress situations",
+  "Cultural Preferences::avoids high sugar foods",
+  "Cultural Preferences::avoids infections",
+  "Cultural Preferences::avoids iodine deficiency",
+  "Cultural Preferences::avoids joint strain",
+  "Cultural Preferences::avoids lifting heavy weights",
+  "Cultural Preferences::avoids loud environments",
+  "Cultural Preferences::avoids mosquito exposure",
+  "Cultural Preferences::avoids muscle strain",
+  "Cultural Preferences::avoids overexertion",
+  "Cultural Preferences::avoids overstimulation",
+  "Cultural Preferences::avoids physical exertion",
+  "Cultural Preferences::avoids processed foods",
+  "Cultural Preferences::avoids raw food",
+  "Cultural Preferences::avoids repetitive strain",
+  "Cultural Preferences::avoids rodent exposure",
+  "Cultural Preferences::avoids salt rich foods",
+  "Cultural Preferences::avoids scented products",
+  "Cultural Preferences::avoids smoking",
+  "Cultural Preferences::avoids spicy foods",
+  "Cultural Preferences::avoids stagnant water",
+  "Cultural Preferences::avoids strenuous activities",
+  "Cultural Preferences::avoids stress",
+  "Cultural Preferences::avoids stress inducing situations",
+  "Cultural Preferences::avoids stress triggers",
+  "Cultural Preferences::avoids stressors",
+  "Cultural Preferences::avoids sugar rich foods",
+  "Cultural Preferences::avoids sugary foods",
+  "Cultural Preferences::avoids sun exposure",
+  "Cultural Preferences::avoids tick exposure",
+  "Cultural Preferences::avoids toxins",
+  "Cultural Preferences::avoids triggers",
+  "Cultural Preferences::avoids unclean water",
+  "Cultural Preferences::avoids undercooked meat",
+  "Cultural Preferences::avoids unsanitary areas",
+  "Cultural Preferences::favors holistic practices",
+  "Cultural Preferences::favors natural remedies",
+  "Cultural Preferences::low fat",
+  "Cultural Preferences::prefers warm places",
+  "Cultural Preferences::uses mild skincare",
+  "Cultural Preferences::uses mosquito repellents",
+  "Current Medications::ace inhibitors",
+  "Current Medications::albendazole",
+  "Current Medications::antacids",
+  "Current Medications::anthelmintics",
+  "Current Medications::anthelmintics mebendazole",
+  "Current Medications::anti inflammatory drugs",
+  "Current Medications::anti inflammatory medications",
+  "Current Medications::antibiotics",
+  "Current Medications::antibiotics e g",
+  "Current Medications::anticonvulsants",
+  "Current Medications::antidepressants",
+  "Current Medications::antifungal medications",
+  "Current Medications::antifungals",
+  "Current Medications::antihistamines",
+  "Current Medications::antihypertensives",
+  "Current Medications::antileishmanial drugs",
+  "Current Medications::antimalarial drugs",
+  "Current Medications::antiparasitic drugs",
+  "Current Medications::antiparasitic medications",
+  "Current Medications::antiplatelet drugs",
+  "Current Medications::antipyretics",
+  "Current Medications::antispasmodics",
+  "Current Medications::antiviral",
+  "Current Medications::antiviral drugs",
+  "Current Medications::antiviral medications",
+  "Current Medications::antivirals",
+  "Current Medications::arginine restriction",
+  "Current Medications::aspirin",
+  "Current Medications::benzodiazepines",
+  "Current Medications::beta blockers",
+  "Current Medications::biologics",
+  "Current Medications::bisphosphonates",
+  "Current Medications::blood pressure meds",
+  "Current Medications::blood thinners",
+  "Current Medications::blood transfusions",
+  "Current Medications::bronchodilators",
+  "Current Medications::calcium channel blockers",
+  "Current Medications::calcium supplements",
+  "Current Medications::chemotherapy",
+  "Current Medications::cognitive enhancers",
+  "Current Medications::corticosteroids",
+  "Current Medications::decongestants",
+  "Current Medications::dialysis",
+  "Current Medications::dietary management",
+  "Current Medications::diuretics",
+  "Current Medications::enzyme replacement",
+  "Current Medications::enzyme replacement therapy",
+  "Current Medications::enzyme supplements",
+  "Current Medications::eye drops",
+  "Current Medications::fiber supplements",
+  "Current Medications::fibrates",
+  "Current Medications::fluids",
+  "Current Medications::gluten free diet",
+  "Current Medications::heart medication",
+  "Current Medications::hormonal therapy",
+  "Current Medications::hormone replacement therapy",
+  "Current Medications::hormone therapy",
+  "Current Medications::immunosuppressants",
+  "Current Medications::inhalers",
+  "Current Medications::inhalers beta agonists",
+  "Current Medications::insulin",
+  "Current Medications::iv fluids",
+  "Current Medications::laxatives",
+  "Current Medications::levothyroxine",
+  "Current Medications::liver transplant",
+  "Current Medications::medication",
+  "Current Medications::medications",
+  "Current Medications::melatonin",
+  "Current Medications::moisturizers",
+  "Current Medications::mood stabilizers",
+  "Current Medications::muscle relaxants",
+  "Current Medications::nsaids",
+  "Current Medications::oral antibiotics",
+  "Current Medications::oral hypoglycemics",
+  "Current Medications::oxygen therapy",
+  "Current Medications::pain management",
+  "Current Medications::pain relievers",
+  "Current Medications::pain relievers nsaids",
+  "Current Medications::physical therapy",
+  "Current Medications::physiotherapy",
+  "Current Medications::proton pump inhibitors",
+  "Current Medications::radiation",
+  "Current Medications::radiation therapy",
+  "Current Medications::rest",
+  "Current Medications::rifampicin",
+  "Current Medications::riluzole",
+  "Current Medications::sleep aids",
+  "Current Medications::speech therapy",
+  "Current Medications::statins",
+  "Current Medications::steroid creams",
+  "Current Medications::steroid replacement",
+  "Current Medications::steroids",
+  "Current Medications::supportive care",
+  "Current Medications::surgery",
+  "Current Medications::symptom management",
+  "Current Medications::symptom specific therapy",
+  "Current Medications::symptom specific treatment",
+  "Current Medications::symptomatic treatment",
+  "Current Medications::targeted therapy",
+  "Current Medications::therapy",
+  "Current Medications::thyroid hormone replacement",
+  "Current Medications::topical corticosteroids",
+  "Current Medications::topical creams",
+  "Current Medications::topical steroids",
+  "Current Medications::topical treatments",
+  "Current Medications::vaccination",
+  "Current Medications::vitamin a",
+  "Current Medications::weight loss medications",
+  "Dietary Habits::anti inflammatory",
+  "Dietary Habits::anti inflammatory diet",
+  "Dietary Habits::antifungal diet",
+  "Dietary Habits::antioxidant diet",
+  "Dietary Habits::antioxidant rich diet",
+  "Dietary Habits::avoids spicy foods",
+  "Dietary Habits::balanced",
+  "Dietary Habits::balanced diet",
+  "Dietary Habits::gluten free diet",
+  "Dietary Habits::high antioxidant",
+  "Dietary Habits::high antioxidant diet",
+  "Dietary Habits::high calcium",
+  "Dietary Habits::high calorie",
+  "Dietary Habits::high calorie diet",
+  "Dietary Habits::high carb diet",
+  "Dietary Habits::high fat",
+  "Dietary Habits::high fiber",
+  "Dietary Habits::high fiber diet",
+  "Dietary Habits::high fluid",
+  "Dietary Habits::high fluid diet",
+  "Dietary Habits::high moisture",
+  "Dietary Habits::high nutrient diet",
+  "Dietary Habits::high potassium",
+  "Dietary Habits::high protein",
+  "Dietary Habits::high protein diet",
+  "Dietary Habits::hydrating",
+  "Dietary Habits::hydrating diet",
+  "Dietary Habits::hydrating foods",
+  "Dietary Habits::iodine rich",
+  "Dietary Habits::iodine rich diet",
+  "Dietary Habits::liver friendly diet",
+  "Dietary Habits::low caffeine",
+  "Dietary Habits::low carb",
+  "Dietary Habits::low carb diet",
+  "Dietary Habits::low dairy",
+  "Dietary Habits::low fat",
+  "Dietary Habits::low fat diet",
+  "Dietary Habits::low fiber",
+  "Dietary Habits::low iron",
+  "Dietary Habits::low protein",
+  "Dietary Habits::low purine",
+  "Dietary Habits::low salt",
+  "Dietary Habits::low sodium",
+  "Dietary Habits::low sodium diet",
+  "Dietary Habits::low sugar",
+  "Dietary Habits::low sugar diet",
+  "Dietary Habits::nutrient dense diet",
+  "Dietary Habits::nutrient rich",
+  "Dietary Habits::nutrient rich diet",
+  "Dietary Habits::oily foods",
+  "Dietary Habits::spicy",
+  "Dietary Habits::vitamin rich",
+  "Doshas::kapha",
+  "Doshas::pitta",
+  "Doshas::vata",
+  "Environmental Factors::age",
+  "Environmental Factors::aging",
+  "Environmental Factors::air pollution",
+  "Environmental Factors::airborne transmission",
+  "Environmental Factors::alcohol",
+  "Environmental Factors::alcohol use",
+  "Environmental Factors::allergens",
+  "Environmental Factors::allergies",
+  "Environmental Factors::animal contact",
+  "Environmental Factors::animal exposure",
+  "Environmental Factors::antibiotic use",
+  "Environmental Factors::autoimmune",
+  "Environmental Factors::autoimmune disorders",
+  "Environmental Factors::autoimmune triggers",
+  "Environmental Factors::cancer treatment",
+  "Environmental Factors::chemicals",
+  "Environmental Factors::close contact",
+  "Environmental Factors::close contact with infected people",
+  "Environmental Factors::cold",
+  "Environmental Factors::cold air",
+  "Environmental Factors::cold weather",
+  "Environmental Factors::contaminated food",
+  "Environmental Factors::contaminated food or water",
+  "Environmental Factors::contaminated water",
+  "Environmental Factors::crowded areas",
+  "Environmental Factors::crowded places",
+  "Environmental Factors::dehydration",
+  "Environmental Factors::developmental delay",
+  "Environmental Factors::developmental environment",
+  "Environmental Factors::diabetes",
+  "Environmental Factors::dry environments",
+  "Environmental Factors::dust",
+  "Environmental Factors::environmental factors",
+  "Environmental Factors::environmental toxins",
+  "Environmental Factors::environmental triggers",
+  "Environmental Factors::exposure to infected individuals",
+  "Environmental Factors::family history",
+  "Environmental Factors::fatty diet",
+  "Environmental Factors::genetic",
+  "Environmental Factors::genetic factors",
+  "Environmental Factors::genetic mutation",
+  "Environmental Factors::genetic mutations",
+  "Environmental Factors::genetic predisposition",
+  "Environmental Factors::genetics",
+  "Environmental Factors::hepatitis",
+  "Environmental Factors::high blood pressure",
+  "Environmental Factors::high blood sugar",
+  "Environmental Factors::high caffeine intake",
+  "Environmental Factors::high cholesterol",
+  "Environmental Factors::high fat diet",
+  "Environmental Factors::high protein intake",
+  "Environmental Factors::high rainfall",
+  "Environmental Factors::high salt diet",
+  "Environmental Factors::high sugar intake",
+  "Environmental Factors::hormonal changes",
+  "Environmental Factors::hormonal imbalance",
+  "Environmental Factors::hormonal imbalances",
+  "Environmental Factors::hot",
+  "Environmental Factors::human to human contact",
+  "Environmental Factors::hypertension",
+  "Environmental Factors::immunocompromised",
+  "Environmental Factors::infection",
+  "Environmental Factors::infections",
+  "Environmental Factors::insect bites",
+  "Environmental Factors::iodine deficiency",
+  "Environmental Factors::irritants",
+  "Environmental Factors::joint strain",
+  "Environmental Factors::kidney dysfunction",
+  "Environmental Factors::lack of exercise",
+  "Environmental Factors::lack of sleep",
+  "Environmental Factors::liver dysfunction",
+  "Environmental Factors::loud sounds",
+  "Environmental Factors::low oxygen environments",
+  "Environmental Factors::mosquito exposure",
+  "Environmental Factors::mosquitoes",
+  "Environmental Factors::needle sharing",
+  "Environmental Factors::noise",
+  "Environmental Factors::obesity",
+  "Environmental Factors::oily skin",
+  "Environmental Factors::overeating",
+  "Environmental Factors::overwork",
+  "Environmental Factors::personal issues",
+  "Environmental Factors::physical inactivity",
+  "Environmental Factors::physical strain",
+  "Environmental Factors::pollen",
+  "Environmental Factors::pollution",
+  "Environmental Factors::poor diet",
+  "Environmental Factors::poor hygiene",
+  "Environmental Factors::poor kidney function",
+  "Environmental Factors::poor oral hygiene",
+  "Environmental Factors::poor posture",
+  "Environmental Factors::poor protein metabolism",
+  "Environmental Factors::poor sanitation",
+  "Environmental Factors::radiation",
+  "Environmental Factors::respiratory infections",
+  "Environmental Factors::rodent exposure",
+  "Environmental Factors::rural areas",
+  "Environmental Factors::sedentary lifestyle",
+  "Environmental Factors::smoking",
+  "Environmental Factors::spicy food",
+  "Environmental Factors::spicy foods",
+  "Environmental Factors::stress",
+  "Environmental Factors::sun exposure",
+  "Environmental Factors::tick exposure",
+  "Environmental Factors::toxins",
+  "Environmental Factors::trauma",
+  "Environmental Factors::tropical areas",
+  "Environmental Factors::tropical environments",
+  "Environmental Factors::tropical regions",
+  "Environmental Factors::unprotected sex",
+  "Environmental Factors::viral",
+  "Environmental Factors::viral infection",
+  "Environmental Factors::viral infections",
+  "Environmental Factors::warm climates",
+  "Environmental Factors::weakened immune system",
+  "Environmental Factors::weather changes",
+  "Environmental Factors::wet environments",
+  "Family History::family history of allergies",
+  "Family History::family history of als",
+  "Family History::family history of anemia",
+  "Family History::family history of anxiety",
+  "Family History::family history of arthritis",
+  "Family History::family history of asthma",
+  "Family History::family history of autoimmune diseases",
+  "Family History::family history of back problems",
+  "Family History::family history of barth syndrome",
+  "Family History::family history of blood disorders",
+  "Family History::family history of bone disorders",
+  "Family History::family history of cancer",
+  "Family History::family history of cystic fibrosis",
+  "Family History::family history of dementia",
+  "Family History::family history of depression",
+  "Family History::family history of diabetes",
+  "Family History::family history of eczema",
+  "Family History::family history of endocrine disorders",
+  "Family History::family history of epilepsy",
+  "Family History::family history of fibromyalgia",
+  "Family History::family history of gallstones",
+  "Family History::family history of gastrointestinal issues",
+  "Family History::family history of genetic disorders",
+  "Family History::family history of gout",
+  "Family History::family history of hair loss",
+  "Family History::family history of heart disease",
+  "Family History::family history of hepatitis",
+  "Family History::family history of hypertension",
+  "Family History::family history of ibd",
+  "Family History::family history of ibs",
+  "Family History::family history of infections",
+  "Family History::family history of insomnia",
+  "Family History::family history of joint disorders",
+  "Family History::family history of kidney disease",
+  "Family History::family history of kidney stones",
+  "Family History::family history of leprosy",
+  "Family History::family history of leukemia",
+  "Family History::family history of liver disease",
+  "Family History::family history of lung disease",
+  "Family History::family history of lymphoma",
+  "Family History::family history of malaria",
+  "Family History::family history of measles",
+  "Family History::family history of melanoma",
+  "Family History::family history of metabolic disorders",
+  "Family History::family history of migraines",
+  "Family History::family history of ms",
+  "Family History::family history of obesity",
+  "Family History::family history of osteoporosis",
+  "Family History::family history of parasitic infections",
+  "Family History::family history of parkinson s",
+  "Family History::family history of psoriasis",
+  "Family History::family history of respiratory issues",
+  "Family History::family history of sinus issues",
+  "Family History::family history of skin conditions",
+  "Family History::family history of sleep disorders",
+  "Family History::family history of stroke",
+  "Family History::family history of tb",
+  "Family History::family history of thyroid disorders",
+  "Family History::family history of ulcers",
+  "Family History::family history of utis",
+  "Family History::family history of viral infections",
+  "Family History::family history of wilson s disease",
+  "Family History::no family history",
+  "Family History::no significant family history",
+  "Gender::all genders",
+  "Gender::both genders",
+  "Gender::female",
+  "Gender::male",
+  "Gender::males",
+  "Gender::mostly female",
+  "Gender::mostly male",
+  "Medical History::age",
+  "Medical History::age related",
+  "Medical History::aging",
+  "Medical History::aids",
+  "Medical History::air pollution",
+  "Medical History::alcohol abuse",
+  "Medical History::alcohol consumption",
+  "Medical History::alcohol use",
+  "Medical History::alcoholism",
+  "Medical History::allergies",
+  "Medical History::animal exposure",
+  "Medical History::anxiety",
+  "Medical History::asthma",
+  "Medical History::autoimmune",
+  "Medical History::autoimmune conditions",
+  "Medical History::autoimmune diseases",
+  "Medical History::autoimmune disorder",
+  "Medical History::autoimmune disorders",
+  "Medical History::bacterial infection",
+  "Medical History::blood disorder",
+  "Medical History::blood disorders",
+  "Medical History::brain injury",
+  "Medical History::cancer",
+  "Medical History::cardiovascular disease",
+  "Medical History::cardiovascular disorders",
+  "Medical History::connective tissue disorders",
+  "Medical History::contact with infected individuals",
+  "Medical History::contaminated food",
+  "Medical History::contaminated water",
+  "Medical History::dehydration",
+  "Medical History::depression",
+  "Medical History::developmental delays",
+  "Medical History::developmental disorders",
+  "Medical History::diabetes",
+  "Medical History::diet",
+  "Medical History::eczema",
+  "Medical History::endemic areas",
+  "Medical History::exposure",
+  "Medical History::family history",
+  "Medical History::family history of cancer",
+  "Medical History::family history of mental disorders",
+  "Medical History::family history of migraines",
+  "Medical History::family history of thyroid disease",
+  "Medical History::fungal infection",
+  "Medical History::gallstones",
+  "Medical History::genetic",
+  "Medical History::genetic disorder",
+  "Medical History::genetic factors",
+  "Medical History::genetic metabolic disorders",
+  "Medical History::genetic mutation",
+  "Medical History::genetics",
+  "Medical History::hay fever",
+  "Medical History::heart disease",
+  "Medical History::heart diseases",
+  "Medical History::hepatitis",
+  "Medical History::high blood pressure",
+  "Medical History::high cholesterol",
+  "Medical History::high fat diet",
+  "Medical History::hiv",
+  "Medical History::hormonal imbalance",
+  "Medical History::hypertension",
+  "Medical History::hyperthyroidism",
+  "Medical History::hypothyroidism",
+  "Medical History::immune system issues",
+  "Medical History::infection",
+  "Medical History::infections",
+  "Medical History::injury",
+  "Medical History::insect bites",
+  "Medical History::joint inflammation",
+  "Medical History::joint pain",
+  "Medical History::kidney disease",
+  "Medical History::kidney disorders",
+  "Medical History::lack of vaccination",
+  "Medical History::low fiber diet",
+  "Medical History::metabolic disorders",
+  "Medical History::mitochondrial disorders",
+  "Medical History::mosquito bites",
+  "Medical History::mosquito borne viral infection",
+  "Medical History::mosquito borne virus",
+  "Medical History::mosquitoes",
+  "Medical History::muscle weakness",
+  "Medical History::neurological",
+  "Medical History::obesity",
+  "Medical History::overeating",
+  "Medical History::parasitic infection",
+  "Medical History::poor diet",
+  "Medical History::poor hygiene",
+  "Medical History::poor posture",
+  "Medical History::poor sanitation",
+  "Medical History::pregnancy",
+  "Medical History::respiratory infection",
+  "Medical History::respiratory infections",
+  "Medical History::respiratory issues",
+  "Medical History::rural areas",
+  "Medical History::sedentary lifestyle",
+  "Medical History::skin condition",
+  "Medical History::smoking",
+  "Medical History::stress",
+  "Medical History::stroke",
+  "Medical History::sun exposure",
+  "Medical History::thyroid dysfunction",
+  "Medical History::tick bites",
+  "Medical History::trauma",
+  "Medical History::tropical areas",
+  "Medical History::tropical regions",
+  "Medical History::tuberculosis",
+  "Medical History::tumor growth",
+  "Medical History::unprotected sex",
+  "Medical History::viral",
+  "Medical History::viral infection",
+  "Medical History::viral infections",
+  "Medical History::waterborne",
+  "Medical History::weak immune system",
+  "Medical History::weakened immune system",
+  "Medical History::x linked disorders",
+  "Occupation and Lifestyle::active",
+  "Occupation and Lifestyle::active lifestyle",
+  "Occupation and Lifestyle::agricultural areas",
+  "Occupation and Lifestyle::agricultural work",
+  "Occupation and Lifestyle::avoids contaminated water",
+  "Occupation and Lifestyle::avoids insect exposure",
+  "Occupation and Lifestyle::avoids mosquito bites",
+  "Occupation and Lifestyle::avoids outdoor exposure",
+  "Occupation and Lifestyle::avoids undercooked meat",
+  "Occupation and Lifestyle::close contact",
+  "Occupation and Lifestyle::desk job",
+  "Occupation and Lifestyle::desk jobs",
+  "Occupation and Lifestyle::exposure to allergens",
+  "Occupation and Lifestyle::exposure to animals",
+  "Occupation and Lifestyle::exposure to unsanitary conditions",
+  "Occupation and Lifestyle::family care",
+  "Occupation and Lifestyle::high stress",
+  "Occupation and Lifestyle::high stress job",
+  "Occupation and Lifestyle::high stress jobs",
+  "Occupation and Lifestyle::high stress work",
+  "Occupation and Lifestyle::home care",
+  "Occupation and Lifestyle::limited physical activity",
+  "Occupation and Lifestyle::low activity",
+  "Occupation and Lifestyle::low physical activity",
+  "Occupation and Lifestyle::medical care",
+  "Occupation and Lifestyle::medical jobs",
+  "Occupation and Lifestyle::occupational exposure",
+  "Occupation and Lifestyle::office job",
+  "Occupation and Lifestyle::office jobs",
+  "Occupation and Lifestyle::office work",
+  "Occupation and Lifestyle::outdoor",
+  "Occupation and Lifestyle::poor hygiene areas",
+  "Occupation and Lifestyle::poor sanitation",
+  "Occupation and Lifestyle::poor sanitation areas",
+  "Occupation and Lifestyle::remote areas",
+  "Occupation and Lifestyle::requires antibiotics",
+  "Occupation and Lifestyle::requires antifungal treatment",
+  "Occupation and Lifestyle::requires cancer treatment",
+  "Occupation and Lifestyle::requires caregiver support",
+  "Occupation and Lifestyle::requires chemotherapy",
+  "Occupation and Lifestyle::requires dietary control",
+  "Occupation and Lifestyle::requires heart monitoring",
+  "Occupation and Lifestyle::requires hydration",
+  "Occupation and Lifestyle::requires hygiene",
+  "Occupation and Lifestyle::requires hygiene practices",
+  "Occupation and Lifestyle::requires immune monitoring",
+  "Occupation and Lifestyle::requires inhalers",
+  "Occupation and Lifestyle::requires joint care",
+  "Occupation and Lifestyle::requires kidney monitoring",
+  "Occupation and Lifestyle::requires lifestyle change",
+  "Occupation and Lifestyle::requires liver monitoring",
+  "Occupation and Lifestyle::requires medical treatment",
+  "Occupation and Lifestyle::requires medication",
+  "Occupation and Lifestyle::requires monitoring",
+  "Occupation and Lifestyle::requires nasal care",
+  "Occupation and Lifestyle::requires ongoing monitoring",
+  "Occupation and Lifestyle::requires ongoing treatment",
+  "Occupation and Lifestyle::requires pain management",
+  "Occupation and Lifestyle::requires physical therapy",
+  "Occupation and Lifestyle::requires posture correction",
+  "Occupation and Lifestyle::requires psychological support",
+  "Occupation and Lifestyle::requires regular check ups",
+  "Occupation and Lifestyle::requires regular monitoring",
+  "Occupation and Lifestyle::requires rehabilitation",
+  "Occupation and Lifestyle::requires respiratory care",
+  "Occupation and Lifestyle::requires skin care",
+  "Occupation and Lifestyle::requires skin care routine",
+  "Occupation and Lifestyle::requires special care",
+  "Occupation and Lifestyle::requires sun protection",
+  "Occupation and Lifestyle::requires surgery",
+  "Occupation and Lifestyle::requires therapy",
+  "Occupation and Lifestyle::requires thyroid monitoring",
+  "Occupation and Lifestyle::rural",
+  "Occupation and Lifestyle::rural areas",
+  "Occupation and Lifestyle::schools",
+  "Occupation and Lifestyle::sedentary",
+  "Occupation and Lifestyle::sedentary job",
+  "Occupation and Lifestyle::sedentary lifestyle",
+  "Occupation and Lifestyle::special care",
+  "Occupation and Lifestyle::special medical care",
+  "Occupation and Lifestyle::stress",
+  "Occupation and Lifestyle::stressful jobs",
+  "Occupation and Lifestyle::stressful lifestyle",
+  "Occupation and Lifestyle::stressful work",
+  "Occupation and Lifestyle::stressful work environments",
+  "Occupation and Lifestyle::tropical areas",
+  "Physical Activity Levels::low",
+  "Physical Activity Levels::low to moderate",
+  "Physical Activity Levels::moderate",
+  "Physical Activity Levels::moderate to high",
+  "Physical Activity Levels::moderate to low",
+  "Risk Factors::accidents",
+  "Risk Factors::age",
+  "Risk Factors::age 40",
+  "Risk Factors::aging",
+  "Risk Factors::aids",
+  "Risk Factors::air pollution",
+  "Risk Factors::alcohol",
+  "Risk Factors::alcohol use",
+  "Risk Factors::allergies",
+  "Risk Factors::animal bites",
+  "Risk Factors::animal exposure",
+  "Risk Factors::anxiety",
+  "Risk Factors::autoimmune diseases",
+  "Risk Factors::autoimmune disorders",
+  "Risk Factors::autoimmune factors",
+  "Risk Factors::autoimmune issues",
+  "Risk Factors::brain injury",
+  "Risk Factors::chemical exposure",
+  "Risk Factors::close contact",
+  "Risk Factors::consumption of contaminated food",
+  "Risk Factors::contact with infected animals",
+  "Risk Factors::contact with infected body fluids",
+  "Risk Factors::contact with infected individuals",
+  "Risk Factors::contaminated food",
+  "Risk Factors::contaminated soil",
+  "Risk Factors::contaminated water",
+  "Risk Factors::dehydration",
+  "Risk Factors::diabetes",
+  "Risk Factors::diet",
+  "Risk Factors::dry skin",
+  "Risk Factors::environmental factors",
+  "Risk Factors::environmental toxins",
+  "Risk Factors::exposure to contaminated soil",
+  "Risk Factors::family history",
+  "Risk Factors::female gender",
+  "Risk Factors::flea bites",
+  "Risk Factors::gallstones",
+  "Risk Factors::genetic factors",
+  "Risk Factors::genetic mutation",
+  "Risk Factors::genetic mutations",
+  "Risk Factors::genetics",
+  "Risk Factors::gluten consumption",
+  "Risk Factors::h pylori infection",
+  "Risk Factors::head trauma",
+  "Risk Factors::heart disease",
+  "Risk Factors::hepatitis",
+  "Risk Factors::high blood pressure",
+  "Risk Factors::high cholesterol",
+  "Risk Factors::high fat diet",
+  "Risk Factors::hiv",
+  "Risk Factors::hormonal changes",
+  "Risk Factors::hormonal imbalance",
+  "Risk Factors::hormonal imbalances",
+  "Risk Factors::hypertension",
+  "Risk Factors::immune system dysfunction",
+  "Risk Factors::immune weakness",
+  "Risk Factors::infected sandflies",
+  "Risk Factors::infection",
+  "Risk Factors::infections",
+  "Risk Factors::injury",
+  "Risk Factors::insect bites",
+  "Risk Factors::iodine deficiency",
+  "Risk Factors::kidney disease",
+  "Risk Factors::lack of exercise",
+  "Risk Factors::lack of hygiene",
+  "Risk Factors::lack of vaccination",
+  "Risk Factors::low fiber diet",
+  "Risk Factors::mosquito bites",
+  "Risk Factors::obesity",
+  "Risk Factors::oily skin",
+  "Risk Factors::overeating",
+  "Risk Factors::overuse",
+  "Risk Factors::pollution",
+  "Risk Factors::poor diet",
+  "Risk Factors::poor hygiene",
+  "Risk Factors::poor posture",
+  "Risk Factors::poor sanitation",
+  "Risk Factors::pregnancy",
+  "Risk Factors::radiation exposure",
+  "Risk Factors::respiratory infections",
+  "Risk Factors::rodent exposure",
+  "Risk Factors::sedentary lifestyle",
+  "Risk Factors::sexual activity",
+  "Risk Factors::smoking",
+  "Risk Factors::stress",
+  "Risk Factors::substance abuse",
+  "Risk Factors::sun exposure",
+  "Risk Factors::trauma",
+  "Risk Factors::travel to endemic areas",
+  "Risk Factors::tumors",
+  "Risk Factors::unprotected sex",
+  "Risk Factors::uv exposure",
+  "Risk Factors::viral infections",
+  "Risk Factors::water",
+  "Risk Factors::weak immune system",
+  "Risk Factors::weakened immune system",
+  "Risk Factors::work pressure",
+  "Seasonal Variation::all seasons",
+  "Seasonal Variation::cold season",
+  "Seasonal Variation::dry season",
+  "Seasonal Variation::dry seasons",
+  "Seasonal Variation::monsoon",
+  "Seasonal Variation::monsoon season",
+  "Seasonal Variation::rainy",
+  "Seasonal Variation::rainy season",
+  "Seasonal Variation::spring",
+  "Seasonal Variation::summer",
+  "Seasonal Variation::summer season",
+  "Seasonal Variation::summer seasons",
+  "Seasonal Variation::tropical season",
+  "Seasonal Variation::wet season",
+  "Seasonal Variation::winter",
+  "Seasonal Variation::winter season",
+  "Sleep Patterns::disrupted sleep",
+  "Sleep Patterns::irregular sleep",
+  "Sleep Patterns::poor sleep",
+  "Sleep Patterns::poor sleep quality",
+  "Sleep Patterns::regular sleep",
+  "Stress Levels::high stress",
+  "Stress Levels::low stress",
+  "Stress Levels::moderate stress",
+  "Symptom Severity::mild to moderate",
+  "Symptom Severity::mild to severe",
+  "Symptom Severity::moderate",
+  "Symptom Severity::moderate to severe",
+  "Symptom Severity::severe",
+  "Symptoms::abdominal cramps",
+  "Symptoms::abdominal pain",
+  "Symptoms::abscesses",
+  "Symptoms::anxiety",
+  "Symptoms::back pain",
+  "Symptoms::balance problems",
+  "Symptoms::bleeding",
+  "Symptoms::bloating",
+  "Symptoms::blood in stool",
+  "Symptoms::blood in urine",
+  "Symptoms::blurred vision",
+  "Symptoms::body aches",
+  "Symptoms::bone pain",
+  "Symptoms::breathing problems",
+  "Symptoms::cataracts",
+  "Symptoms::chest pain",
+  "Symptoms::chills",
+  "Symptoms::chronic cough",
+  "Symptoms::chronic pain",
+  "Symptoms::cold intolerance",
+  "Symptoms::confusion",
+  "Symptoms::conjunctivitis",
+  "Symptoms::constipation",
+  "Symptoms::cough",
+  "Symptoms::coughing",
+  "Symptoms::dark urine",
+  "Symptoms::depression",
+  "Symptoms::developmental delay",
+  "Symptoms::developmental delays",
+  "Symptoms::diarrhea",
+  "Symptoms::diarrhea or constipation",
+  "Symptoms::difficulty breathing",
+  "Symptoms::difficulty concentrating",
+  "Symptoms::difficulty moving",
+  "Symptoms::difficulty speaking",
+  "Symptoms::difficulty swallowing",
+  "Symptoms::difficulty urinating",
+  "Symptoms::difficulty walking",
+  "Symptoms::discharge",
+  "Symptoms::discomfort after eating",
+  "Symptoms::dizziness",
+  "Symptoms::dry skin",
+  "Symptoms::easy bruising",
+  "Symptoms::enlarged organs",
+  "Symptoms::excessive thirst",
+  "Symptoms::excessive worry",
+  "Symptoms::eye pain",
+  "Symptoms::facial abnormalities",
+  "Symptoms::facial pain",
+  "Symptoms::fatigue",
+  "Symptoms::feet",
+  "Symptoms::fever",
+  "Symptoms::fractures",
+  "Symptoms::fragile bones",
+  "Symptoms::frequent infections",
+  "Symptoms::frequent urge to urinate",
+  "Symptoms::frequent urination",
+  "Symptoms::growth delay",
+  "Symptoms::hair loss",
+  "Symptoms::headache",
+  "Symptoms::headaches",
+  "Symptoms::hearing loss",
+  "Symptoms::heart defects",
+  "Symptoms::heartburn",
+  "Symptoms::height loss",
+  "Symptoms::high blood pressure",
+  "Symptoms::high cholesterol",
+  "Symptoms::high fever",
+  "Symptoms::high temperature",
+  "Symptoms::increased thirst",
+  "Symptoms::indigestion",
+  "Symptoms::intellectual disability",
+  "Symptoms::irregular heartbeat",
+  "Symptoms::irregular periods",
+  "Symptoms::irritability",
+  "Symptoms::itching",
+  "Symptoms::itchy skin",
+  "Symptoms::jaundice",
+  "Symptoms::joint pain",
+  "Symptoms::kidney issues",
+  "Symptoms::kidney stones",
+  "Symptoms::lethargy",
+  "Symptoms::liver enlargement",
+  "Symptoms::loss of appetite",
+  "Symptoms::loss of consciousness",
+  "Symptoms::loss of motor skills",
+  "Symptoms::loud snoring",
+  "Symptoms::low blood pressure",
+  "Symptoms::lung infections",
+  "Symptoms::memory loss",
+  "Symptoms::mood swings",
+  "Symptoms::mouth sores",
+  "Symptoms::muscle aches",
+  "Symptoms::muscle pain",
+  "Symptoms::muscle rigidity",
+  "Symptoms::muscle stiffness",
+  "Symptoms::muscle weakness",
+  "Symptoms::nasal congestion",
+  "Symptoms::nausea",
+  "Symptoms::nerve damage",
+  "Symptoms::nervousness",
+  "Symptoms::neurological issues",
+  "Symptoms::night sweats",
+  "Symptoms::numbness",
+  "Symptoms::pain",
+  "Symptoms::painful urination",
+  "Symptoms::pale skin",
+  "Symptoms::paralysis",
+  "Symptoms::pelvic pain",
+  "Symptoms::persistent cough",
+  "Symptoms::photosensitivity",
+  "Symptoms::poor feeding",
+  "Symptoms::poor growth",
+  "Symptoms::psychiatric symptoms",
+  "Symptoms::rapid heartbeat",
+  "Symptoms::rash",
+  "Symptoms::red",
+  "Symptoms::red eyes",
+  "Symptoms::redness",
+  "Symptoms::restlessness",
+  "Symptoms::runny nose",
+  "Symptoms::scales",
+  "Symptoms::seizures",
+  "Symptoms::severe headache",
+  "Symptoms::short stature",
+  "Symptoms::shortness of breath",
+  "Symptoms::skeletal deformities",
+  "Symptoms::skin changes",
+  "Symptoms::skin lesions",
+  "Symptoms::skin rash",
+  "Symptoms::skin rashes",
+  "Symptoms::skin ulcers",
+  "Symptoms::sleep disturbances",
+  "Symptoms::slow movement",
+  "Symptoms::sneezing",
+  "Symptoms::sore throat",
+  "Symptoms::speech problems",
+  "Symptoms::stiff neck",
+  "Symptoms::stiffness",
+  "Symptoms::sudden numbness",
+  "Symptoms::sweating",
+  "Symptoms::swelling",
+  "Symptoms::swelling in legs",
+  "Symptoms::swollen lymph nodes",
+  "Symptoms::thickened skin",
+  "Symptoms::tingling",
+  "Symptoms::tremors",
+  "Symptoms::unexplained weight loss",
+  "Symptoms::upper abdominal pain",
+  "Symptoms::vision issues",
+  "Symptoms::vision loss",
+  "Symptoms::vision problems",
+  "Symptoms::vomiting",
+  "Symptoms::weakness",
+  "Symptoms::weight gain",
+  "Symptoms::weight loss",
+  "Symptoms::wheezing"
+ ],
+ "questions": [
+  {
+   "en": "Are you in the 20 40 years age group?",
+   "hi": "क्या आपकी आयु 20 से 40 वर्ष वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the 20 50 years age group?",
+   "hi": "क्या आपकी आयु 20 से 50 वर्ष वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the 20 60 years age group?",
+   "hi": "क्या आपकी आयु 20 से 60 वर्ष वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the 30 50 years age group?",
+   "hi": "क्या आपकी आयु 30 से 50 वर्ष वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the 30 60 years age group?",
+   "hi": "क्या आपकी आयु 30 से 60 वर्ष वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the 30 70 years age group?",
+   "hi": "क्या आपकी आयु 30 से 70 वर्ष वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the 40 60 years age group?",
+   "hi": "क्या आपकी आयु 40 से 60 वर्ष वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the 40 70 years age group?",
+   "hi": "क्या आपकी आयु 40 से 70 वर्ष वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the 40 80 years age group?",
+   "hi": "क्या आपकी आयु 40 से 80 वर्ष वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the 50 80 years age group?",
+   "hi": "क्या आपकी आयु 50 से 80 वर्ष वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the 60 years age group?",
+   "hi": "क्या आपकी आयु 60 वर्ष वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the adolescents to adults age group?",
+   "hi": "क्या आपकी आयु adolescents to adults वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the adult age group?",
+   "hi": "क्या आपकी आयु वयस्क वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the adults age group?",
+   "hi": "क्या आपकी आयु वयस्क वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the adults older age group?",
+   "hi": "क्या आपकी आयु adults older वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the adults young age group?",
+   "hi": "क्या आपकी आयु adults young वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the all age groups age group?",
+   "hi": "क्या आपकी आयु all age groups वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the all ages age group?",
+   "hi": "क्या आपकी आयु सभी आयु वर्ग वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the childhood age group?",
+   "hi": "क्या आपकी आयु बचपन वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the childhood to adult age group?",
+   "hi": "क्या आपकी आयु childhood to adult वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the childhood to adulthood age group?",
+   "hi": "क्या आपकी आयु childhood to adulthood वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the children age group?",
+   "hi": "क्या आपकी आयु बच्चे वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the elderly age group?",
+   "hi": "क्या आपकी आयु वृद्ध वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the pregnant women age group?",
+   "hi": "क्या आपकी आयु pregnant women वर्ग में आती है?"
+  },
+  {
+   "en": "Are you in the teens age group?",
+   "hi": "क्या आपकी आयु teens वर्ग में आती है?"
+  },
+  {
+   "en": "Are you allergic to airborne pathogens?",
+   "hi": "क्या आपको airborne pathogens से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to alcohol?",
+   "hi": "क्या आपको शराब से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to allergies dust?",
+   "hi": "क्या आपको allergies dust से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to certain foods?",
+   "hi": "क्या आपको certain foods से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to contaminated food?",
+   "hi": "क्या आपको contaminated food से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to dairy?",
+   "hi": "क्या आपको dairy से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to dust?",
+   "hi": "क्या आपको धूल से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to fatty foods?",
+   "hi": "क्या आपको fatty foods से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to fish?",
+   "hi": "क्या आपको fish से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to gluten?",
+   "hi": "क्या आपको gluten से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to high fat foods?",
+   "hi": "क्या आपको high fat foods से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to mosquito allergens?",
+   "hi": "क्या आपको mosquito allergens से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to mosquito bites?",
+   "hi": "क्या आपको mosquito bites से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to mosquitoes?",
+   "hi": "क्या आपको mosquitoes से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to pollen?",
+   "hi": "क्या आपको पराग से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to pollens?",
+   "hi": "क्या आपको pollens से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to pollution?",
+   "hi": "क्या आपको प्रदूषण से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to seafood?",
+   "hi": "क्या आपको seafood से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to smoke?",
+   "hi": "क्या आपको smoke से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to smoking?",
+   "hi": "क्या आपको धूम्रपान से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to sunlight?",
+   "hi": "क्या आपको sunlight से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to tobacco?",
+   "hi": "क्या आपको tobacco से एलर्जी है?"
+  },
+  {
+   "en": "Are you allergic to viral exposure?",
+   "hi": "क्या आपको viral exposure से एलर्जी है?"
+  },
+  {
+   "en": "Is your constitution (prakriti) kapha?",
+   "hi": "क्या आपकी प्रकृति कफ है?"
+  },
+  {
+   "en": "Is your constitution (prakriti) kapha pitta?",
+   "hi": "क्या आपकी प्रकृति कफ-पित्त है?"
+  },
+  {
+   "en": "Is your constitution (prakriti) kapha prakriti?",
+   "hi": "क्या आपकी प्रकृति कफ प्रकृति है?"
+  },
+  {
+   "en": "Is your constitution (prakriti) kapha vata?",
+   "hi": "क्या आपकी प्रकृति कफ-वात है?"
+  },
+  {
+   "en": "Is your constitution (prakriti) pitta?",
+   "hi": "क्या आपकी प्रकृति पित्त है?"
+  },
+  {
+   "en": "Is your constitution (prakriti) pitta kapha?",
+   "hi": "क्या आपकी प्रकृति पित्त-कफ है?"
+  },
+  {
+   "en": "Is your constitution (prakriti) pitta prakriti?",
+   "hi": "क्या आपकी प्रकृति पित्त प्रकृति है?"
+  },
+  {
+   "en": "Is your constitution (prakriti) pitta vata?",
+   "hi": "क्या आपकी प्रकृति पित्त-वात है?"
+  },
+  {
+   "en": "Is your constitution (prakriti) vata?",
+   "hi": "क्या आपकी प्रकृति वात है?"
+  },
+  {
+   "en": "Is your constitution (prakriti) vata kapha?",
+   "hi": "क्या आपकी प्रकृति वात-कफ है?"
+  },
+  {
+   "en": "Is your constitution (prakriti) vata pitta?",
+   "hi": "क्या आपकी प्रकृति वात-पित्त है?"
+  },
+  {
+   "en": "Is your constitution (prakriti) vata prakriti?",
+   "hi": "क्या आपकी प्रकृति वात प्रकृति है?"
+  },
+  {
+   "en": "Does avoids alcohol apply to your dietary or cultural practice?",
+   "hi": "क्या avoids alcohol आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids alcohol and caffeine apply to your dietary or cultural practice?",
+   "hi": "क्या avoids alcohol and caffeine आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids alcohol and smoking apply to your dietary or cultural practice?",
+   "hi": "क्या avoids alcohol and smoking आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids allergens apply to your dietary or cultural practice?",
+   "hi": "क्या avoids allergens आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids animal contact apply to your dietary or cultural practice?",
+   "hi": "क्या avoids animal contact आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids carcinogens apply to your dietary or cultural practice?",
+   "hi": "क्या avoids carcinogens आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids close contact apply to your dietary or cultural practice?",
+   "hi": "क्या avoids close contact आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids cold apply to your dietary or cultural practice?",
+   "hi": "क्या avoids cold आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids cold environments apply to your dietary or cultural practice?",
+   "hi": "क्या avoids cold environments आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids cold foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids cold foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids contaminated food apply to your dietary or cultural practice?",
+   "hi": "क्या avoids contaminated food आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids contaminated soil apply to your dietary or cultural practice?",
+   "hi": "क्या avoids contaminated soil आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids contaminated water apply to your dietary or cultural practice?",
+   "hi": "क्या avoids contaminated water आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids copper rich foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids copper rich foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids crowded areas apply to your dietary or cultural practice?",
+   "hi": "क्या avoids crowded areas आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids crowded places apply to your dietary or cultural practice?",
+   "hi": "क्या avoids crowded places आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids dehydration apply to your dietary or cultural practice?",
+   "hi": "क्या avoids dehydration आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids environmental stressors apply to your dietary or cultural practice?",
+   "hi": "क्या avoids environmental stressors आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids environmental toxins apply to your dietary or cultural practice?",
+   "hi": "क्या avoids environmental toxins आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids excessive iodine apply to your dietary or cultural practice?",
+   "hi": "क्या avoids excessive iodine आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids excessive salt apply to your dietary or cultural practice?",
+   "hi": "क्या avoids excessive salt आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids exposure to infected individuals apply to your dietary or cultural practice?",
+   "hi": "क्या avoids exposure to infected individuals आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids exposure to sick individuals apply to your dietary or cultural practice?",
+   "hi": "क्या avoids exposure to sick individuals आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids eye strain apply to your dietary or cultural practice?",
+   "hi": "क्या avoids eye strain आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids foods high in arginine apply to your dietary or cultural practice?",
+   "hi": "क्या avoids foods high in arginine आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids fried foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids fried foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids harsh chemicals apply to your dietary or cultural practice?",
+   "hi": "क्या avoids harsh chemicals आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids heavy lifting apply to your dietary or cultural practice?",
+   "hi": "क्या avoids heavy lifting आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids heavy meals apply to your dietary or cultural practice?",
+   "hi": "क्या avoids heavy meals आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids heavy physical activity apply to your dietary or cultural practice?",
+   "hi": "क्या avoids heavy physical activity आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids high calcium foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids high calcium foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids high fat foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids high fat foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids high protein foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids high protein foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids high salt foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids high salt foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids high sodium foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids high sodium foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids high stress environments apply to your dietary or cultural practice?",
+   "hi": "क्या avoids high stress environments आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids high stress situations apply to your dietary or cultural practice?",
+   "hi": "क्या avoids high stress situations आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids high sugar foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids high sugar foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids infections apply to your dietary or cultural practice?",
+   "hi": "क्या avoids infections आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids iodine deficiency apply to your dietary or cultural practice?",
+   "hi": "क्या avoids iodine deficiency आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids joint strain apply to your dietary or cultural practice?",
+   "hi": "क्या avoids joint strain आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids lifting heavy weights apply to your dietary or cultural practice?",
+   "hi": "क्या avoids lifting heavy weights आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids loud environments apply to your dietary or cultural practice?",
+   "hi": "क्या avoids loud environments आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids mosquito exposure apply to your dietary or cultural practice?",
+   "hi": "क्या avoids mosquito exposure आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids muscle strain apply to your dietary or cultural practice?",
+   "hi": "क्या avoids muscle strain आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids overexertion apply to your dietary or cultural practice?",
+   "hi": "क्या avoids overexertion आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids overstimulation apply to your dietary or cultural practice?",
+   "hi": "क्या avoids overstimulation आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids physical exertion apply to your dietary or cultural practice?",
+   "hi": "क्या avoids physical exertion आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids processed foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids processed foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids raw food apply to your dietary or cultural practice?",
+   "hi": "क्या avoids raw food आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids repetitive strain apply to your dietary or cultural practice?",
+   "hi": "क्या avoids repetitive strain आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids rodent exposure apply to your dietary or cultural practice?",
+   "hi": "क्या avoids rodent exposure आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids salt rich foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids salt rich foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids scented products apply to your dietary or cultural practice?",
+   "hi": "क्या avoids scented products आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids smoking apply to your dietary or cultural practice?",
+   "hi": "क्या avoids smoking आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids spicy foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids spicy foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids stagnant water apply to your dietary or cultural practice?",
+   "hi": "क्या avoids stagnant water आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids strenuous activities apply to your dietary or cultural practice?",
+   "hi": "क्या avoids strenuous activities आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids stress apply to your dietary or cultural practice?",
+   "hi": "क्या avoids stress आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids stress inducing situations apply to your dietary or cultural practice?",
+   "hi": "क्या avoids stress inducing situations आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids stress triggers apply to your dietary or cultural practice?",
+   "hi": "क्या avoids stress triggers आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids stressors apply to your dietary or cultural practice?",
+   "hi": "क्या avoids stressors आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids sugar rich foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids sugar rich foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids sugary foods apply to your dietary or cultural practice?",
+   "hi": "क्या avoids sugary foods आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids sun exposure apply to your dietary or cultural practice?",
+   "hi": "क्या avoids sun exposure आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids tick exposure apply to your dietary or cultural practice?",
+   "hi": "क्या avoids tick exposure आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids toxins apply to your dietary or cultural practice?",
+   "hi": "क्या avoids toxins आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids triggers apply to your dietary or cultural practice?",
+   "hi": "क्या avoids triggers आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids unclean water apply to your dietary or cultural practice?",
+   "hi": "क्या avoids unclean water आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids undercooked meat apply to your dietary or cultural practice?",
+   "hi": "क्या avoids undercooked meat आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does avoids unsanitary areas apply to your dietary or cultural practice?",
+   "hi": "क्या avoids unsanitary areas आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does favors holistic practices apply to your dietary or cultural practice?",
+   "hi": "क्या favors holistic practices आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does favors natural remedies apply to your dietary or cultural practice?",
+   "hi": "क्या favors natural remedies आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does low fat apply to your dietary or cultural practice?",
+   "hi": "क्या कम वसा आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does prefers warm places apply to your dietary or cultural practice?",
+   "hi": "क्या prefers warm places आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does uses mild skincare apply to your dietary or cultural practice?",
+   "hi": "क्या uses mild skincare आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Does uses mosquito repellents apply to your dietary or cultural practice?",
+   "hi": "क्या uses mosquito repellents आपके आहार या सांस्कृतिक व्यवहार पर लागू होता है?"
+  },
+  {
+   "en": "Are you currently taking ace inhibitors?",
+   "hi": "क्या आप वर्तमान में ace inhibitors ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking albendazole?",
+   "hi": "क्या आप वर्तमान में albendazole ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antacids?",
+   "hi": "क्या आप वर्तमान में antacids ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking anthelmintics?",
+   "hi": "क्या आप वर्तमान में anthelmintics ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking anthelmintics mebendazole?",
+   "hi": "क्या आप वर्तमान में anthelmintics mebendazole ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking anti inflammatory drugs?",
+   "hi": "क्या आप वर्तमान में anti inflammatory drugs ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking anti inflammatory medications?",
+   "hi": "क्या आप वर्तमान में anti inflammatory medications ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antibiotics?",
+   "hi": "क्या आप वर्तमान में एंटीबायोटिक्स ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antibiotics e g?",
+   "hi": "क्या आप वर्तमान में antibiotics e g ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking anticonvulsants?",
+   "hi": "क्या आप वर्तमान में anticonvulsants ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antidepressants?",
+   "hi": "क्या आप वर्तमान में antidepressants ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antifungal medications?",
+   "hi": "क्या आप वर्तमान में antifungal medications ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antifungals?",
+   "hi": "क्या आप वर्तमान में antifungals ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antihistamines?",
+   "hi": "क्या आप वर्तमान में antihistamines ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antihypertensives?",
+   "hi": "क्या आप वर्तमान में antihypertensives ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antileishmanial drugs?",
+   "hi": "क्या आप वर्तमान में antileishmanial drugs ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antimalarial drugs?",
+   "hi": "क्या आप वर्तमान में antimalarial drugs ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antiparasitic drugs?",
+   "hi": "क्या आप वर्तमान में antiparasitic drugs ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antiparasitic medications?",
+   "hi": "क्या आप वर्तमान में antiparasitic medications ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antiplatelet drugs?",
+   "hi": "क्या आप वर्तमान में antiplatelet drugs ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antipyretics?",
+   "hi": "क्या आप वर्तमान में antipyretics ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antispasmodics?",
+   "hi": "क्या आप वर्तमान में antispasmodics ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antiviral?",
+   "hi": "क्या आप वर्तमान में antiviral ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antiviral drugs?",
+   "hi": "क्या आप वर्तमान में antiviral drugs ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antiviral medications?",
+   "hi": "क्या आप वर्तमान में antiviral medications ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking antivirals?",
+   "hi": "क्या आप वर्तमान में antivirals ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking arginine restriction?",
+   "hi": "क्या आप वर्तमान में arginine restriction ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking aspirin?",
+   "hi": "क्या आप वर्तमान में aspirin ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking benzodiazepines?",
+   "hi": "क्या आप वर्तमान में benzodiazepines ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking beta blockers?",
+   "hi": "क्या आप वर्तमान में beta blockers ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking biologics?",
+   "hi": "क्या आप वर्तमान में biologics ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking bisphosphonates?",
+   "hi": "क्या आप वर्तमान में bisphosphonates ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking blood pressure meds?",
+   "hi": "क्या आप वर्तमान में blood pressure meds ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking blood thinners?",
+   "hi": "क्या आप वर्तमान में blood thinners ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking blood transfusions?",
+   "hi": "क्या आप वर्तमान में blood transfusions ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking bronchodilators?",
+   "hi": "क्या आप वर्तमान में bronchodilators ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking calcium channel blockers?",
+   "hi": "क्या आप वर्तमान में calcium channel blockers ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking calcium supplements?",
+   "hi": "क्या आप वर्तमान में calcium supplements ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking chemotherapy?",
+   "hi": "क्या आप वर्तमान में chemotherapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking cognitive enhancers?",
+   "hi": "क्या आप वर्तमान में cognitive enhancers ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking corticosteroids?",
+   "hi": "क्या आप वर्तमान में corticosteroids ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking decongestants?",
+   "hi": "क्या आप वर्तमान में decongestants ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking dialysis?",
+   "hi": "क्या आप वर्तमान में dialysis ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking dietary management?",
+   "hi": "क्या आप वर्तमान में dietary management ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking diuretics?",
+   "hi": "क्या आप वर्तमान में diuretics ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking enzyme replacement?",
+   "hi": "क्या आप वर्तमान में enzyme replacement ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking enzyme replacement therapy?",
+   "hi": "क्या आप वर्तमान में enzyme replacement therapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking enzyme supplements?",
+   "hi": "क्या आप वर्तमान में enzyme supplements ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking eye drops?",
+   "hi": "क्या आप वर्तमान में eye drops ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking fiber supplements?",
+   "hi": "क्या आप वर्तमान में fiber supplements ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking fibrates?",
+   "hi": "क्या आप वर्तमान में fibrates ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking fluids?",
+   "hi": "क्या आप वर्तमान में fluids ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking gluten free diet?",
+   "hi": "क्या आप वर्तमान में gluten free diet ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking heart medication?",
+   "hi": "क्या आप वर्तमान में heart medication ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking hormonal therapy?",
+   "hi": "क्या आप वर्तमान में hormonal therapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking hormone replacement therapy?",
+   "hi": "क्या आप वर्तमान में hormone replacement therapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking hormone therapy?",
+   "hi": "क्या आप वर्तमान में hormone therapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking immunosuppressants?",
+   "hi": "क्या आप वर्तमान में immunosuppressants ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking inhalers?",
+   "hi": "क्या आप वर्तमान में inhalers ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking inhalers beta agonists?",
+   "hi": "क्या आप वर्तमान में inhalers beta agonists ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking insulin?",
+   "hi": "क्या आप वर्तमान में insulin ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking iv fluids?",
+   "hi": "क्या आप वर्तमान में iv fluids ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking laxatives?",
+   "hi": "क्या आप वर्तमान में laxatives ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking levothyroxine?",
+   "hi": "क्या आप वर्तमान में levothyroxine ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking liver transplant?",
+   "hi": "क्या आप वर्तमान में liver transplant ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking medication?",
+   "hi": "क्या आप वर्तमान में medication ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking medications?",
+   "hi": "क्या आप वर्तमान में medications ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking melatonin?",
+   "hi": "क्या आप वर्तमान में melatonin ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking moisturizers?",
+   "hi": "क्या आप वर्तमान में moisturizers ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking mood stabilizers?",
+   "hi": "क्या आप वर्तमान में mood stabilizers ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking muscle relaxants?",
+   "hi": "क्या आप वर्तमान में muscle relaxants ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking nsaids?",
+   "hi": "क्या आप वर्तमान में nsaids ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking oral antibiotics?",
+   "hi": "क्या आप वर्तमान में oral antibiotics ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking oral hypoglycemics?",
+   "hi": "क्या आप वर्तमान में oral hypoglycemics ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking oxygen therapy?",
+   "hi": "क्या आप वर्तमान में oxygen therapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking pain management?",
+   "hi": "क्या आप वर्तमान में pain management ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking pain relievers?",
+   "hi": "क्या आप वर्तमान में pain relievers ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking pain relievers nsaids?",
+   "hi": "क्या आप वर्तमान में pain relievers nsaids ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking physical therapy?",
+   "hi": "क्या आप वर्तमान में physical therapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking physiotherapy?",
+   "hi": "क्या आप वर्तमान में physiotherapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking proton pump inhibitors?",
+   "hi": "क्या आप वर्तमान में proton pump inhibitors ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking radiation?",
+   "hi": "क्या आप वर्तमान में radiation ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking radiation therapy?",
+   "hi": "क्या आप वर्तमान में radiation therapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking rest?",
+   "hi": "क्या आप वर्तमान में rest ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking rifampicin?",
+   "hi": "क्या आप वर्तमान में rifampicin ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking riluzole?",
+   "hi": "क्या आप वर्तमान में riluzole ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking sleep aids?",
+   "hi": "क्या आप वर्तमान में sleep aids ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking speech therapy?",
+   "hi": "क्या आप वर्तमान में speech therapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking statins?",
+   "hi": "क्या आप वर्तमान में statins ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking steroid creams?",
+   "hi": "क्या आप वर्तमान में steroid creams ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking steroid replacement?",
+   "hi": "क्या आप वर्तमान में steroid replacement ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking steroids?",
+   "hi": "क्या आप वर्तमान में steroids ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking supportive care?",
+   "hi": "क्या आप वर्तमान में supportive care ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking surgery?",
+   "hi": "क्या आप वर्तमान में शल्य चिकित्सा ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking symptom management?",
+   "hi": "क्या आप वर्तमान में symptom management ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking symptom specific therapy?",
+   "hi": "क्या आप वर्तमान में symptom specific therapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking symptom specific treatment?",
+   "hi": "क्या आप वर्तमान में symptom specific treatment ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking symptomatic treatment?",
+   "hi": "क्या आप वर्तमान में symptomatic treatment ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking targeted therapy?",
+   "hi": "क्या आप वर्तमान में targeted therapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking therapy?",
+   "hi": "क्या आप वर्तमान में therapy ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking thyroid hormone replacement?",
+   "hi": "क्या आप वर्तमान में thyroid hormone replacement ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking topical corticosteroids?",
+   "hi": "क्या आप वर्तमान में topical corticosteroids ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking topical creams?",
+   "hi": "क्या आप वर्तमान में topical creams ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking topical steroids?",
+   "hi": "क्या आप वर्तमान में topical steroids ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking topical treatments?",
+   "hi": "क्या आप वर्तमान में topical treatments ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking vaccination?",
+   "hi": "क्या आप वर्तमान में vaccination ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking vitamin a?",
+   "hi": "क्या आप वर्तमान में vitamin a ले रहे हैं?"
+  },
+  {
+   "en": "Are you currently taking weight loss medications?",
+   "hi": "क्या आप वर्तमान में weight loss medications ले रहे हैं?"
+  },
+  {
+   "en": "Would you describe your diet as anti inflammatory?",
+   "hi": "क्या आपका आहार anti inflammatory है?"
+  },
+  {
+   "en": "Would you describe your diet as anti inflammatory diet?",
+   "hi": "क्या आपका आहार anti inflammatory diet है?"
+  },
+  {
+   "en": "Would you describe your diet as antifungal diet?",
+   "hi": "क्या आपका आहार antifungal diet है?"
+  },
+  {
+   "en": "Would you describe your diet as antioxidant diet?",
+   "hi": "क्या आपका आहार antioxidant diet है?"
+  },
+  {
+   "en": "Would you describe your diet as antioxidant rich diet?",
+   "hi": "क्या आपका आहार antioxidant rich diet है?"
+  },
+  {
+   "en": "Would you describe your diet as avoids spicy foods?",
+   "hi": "क्या आपका आहार avoids spicy foods है?"
+  },
+  {
+   "en": "Would you describe your diet as balanced?",
+   "hi": "क्या आपका आहार संतुलित है?"
+  },
+  {
+   "en": "Would you describe your diet as balanced diet?",
+   "hi": "क्या आपका आहार संतुलित आहार है?"
+  },
+  {
+   "en": "Would you describe your diet as gluten free diet?",
+   "hi": "क्या आपका आहार gluten free diet है?"
+  },
+  {
+   "en": "Would you describe your diet as high antioxidant?",
+   "hi": "क्या आपका आहार high antioxidant है?"
+  },
+  {
+   "en": "Would you describe your diet as high antioxidant diet?",
+   "hi": "क्या आपका आहार high antioxidant diet है?"
+  },
+  {
+   "en": "Would you describe your diet as high calcium?",
+   "hi": "क्या आपका आहार high calcium है?"
+  },
+  {
+   "en": "Would you describe your diet as high calorie?",
+   "hi": "क्या आपका आहार high calorie है?"
+  },
+  {
+   "en": "Would you describe your diet as high calorie diet?",
+   "hi": "क्या आपका आहार high calorie diet है?"
+  },
+  {
+   "en": "Would you describe your diet as high carb diet?",
+   "hi": "क्या आपका आहार high carb diet है?"
+  },
+  {
+   "en": "Would you describe your diet as high fat?",
+   "hi": "क्या आपका आहार high fat है?"
+  },
+  {
+   "en": "Would you describe your diet as high fiber?",
+   "hi": "क्या आपका आहार high fiber है?"
+  },
+  {
+   "en": "Would you describe your diet as high fiber diet?",
+   "hi": "क्या आपका आहार high fiber diet है?"
+  },
+  {
+   "en": "Would you describe your diet as high fluid?",
+   "hi": "क्या आपका आहार high fluid है?"
+  },
+  {
+   "en": "Would you describe your diet as high fluid diet?",
+   "hi": "क्या आपका आहार high fluid diet है?"
+  },
+  {
+   "en": "Would you describe your diet as high moisture?",
+   "hi": "क्या आपका आहार high moisture है?"
+  },
+  {
+   "en": "Would you describe your diet as high nutrient diet?",
+   "hi": "क्या आपका आहार high nutrient diet है?"
+  },
+  {
+   "en": "Would you describe your diet as high potassium?",
+   "hi": "क्या आपका आहार high potassium है?"
+  },
+  {
+   "en": "Would you describe your diet as high protein?",
+   "hi": "क्या आपका आहार उच्च प्रोटीन है?"
+  },
+  {
+   "en": "Would you describe your diet as high protein diet?",
+   "hi": "क्या आपका आहार उच्च प्रोटीन आहार है?"
+  },
+  {
+   "en": "Would you describe your diet as hydrating?",
+   "hi": "क्या आपका आहार hydrating है?"
+  },
+  {
+   "en": "Would you describe your diet as hydrating diet?",
+   "hi": "क्या आपका आहार hydrating diet है?"
+  },
+  {
+   "en": "Would you describe your diet as hydrating foods?",
+   "hi": "क्या आपका आहार hydrating foods है?"
+  },
+  {
+   "en": "Would you describe your diet as iodine rich?",
+   "hi": "क्या आपका आहार iodine rich है?"
+  },
+  {
+   "en": "Would you describe your diet as iodine rich diet?",
+   "hi": "क्या आपका आहार iodine rich diet है?"
+  },
+  {
+   "en": "Would you describe your diet as liver friendly diet?",
+   "hi": "क्या आपका आहार liver friendly diet है?"
+  },
+  {
+   "en": "Would you describe your diet as low caffeine?",
+   "hi": "क्या आपका आहार low caffeine है?"
+  },
+  {
+   "en": "Would you describe your diet as low carb?",
+   "hi": "क्या आपका आहार low carb है?"
+  },
+  {
+   "en": "Would you describe your diet as low carb diet?",
+   "hi": "क्या आपका आहार low carb diet है?"
+  },
+  {
+   "en": "Would you describe your diet as low dairy?",
+   "hi": "क्या आपका आहार low dairy है?"
+  },
+  {
+   "en": "Would you describe your diet as low fat?",
+   "hi": "क्या आपका आहार कम वसा है?"
+  },
+  {
+   "en": "Would you describe your diet as low fat diet?",
+   "hi": "क्या आपका आहार low fat diet है?"
+  },
+  {
+   "en": "Would you describe your diet as low fiber?",
+   "hi": "क्या आपका आहार low fiber है?"
+  },
+  {
+   "en": "Would you describe your diet as low iron?",
+   "hi": "क्या आपका आहार low iron है?"
+  },
+  {
+   "en": "Would you describe your diet as low protein?",
+   "hi": "क्या आपका आहार low protein है?"
+  },
+  {
+   "en": "Would you describe your diet as low purine?",
+   "hi": "क्या आपका आहार low purine है?"
+  },
+  {
+   "en": "Would you describe your diet as low salt?",
+   "hi": "क्या आपका आहार low salt है?"
+  },
+  {
+   "en": "Would you describe your diet as low sodium?",
+   "hi": "क्या आपका आहार कम नमक है?"
+  },
+  {
+   "en": "Would you describe your diet as low sodium diet?",
+   "hi": "क्या आपका आहार low sodium diet है?"
+  },
+  {
+   "en": "Would you describe your diet as low sugar?",
+   "hi": "क्या आपका आहार low sugar है?"
+  },
+  {
+   "en": "Would you describe your diet as low sugar diet?",
+   "hi": "क्या आपका आहार low sugar diet है?"
+  },
+  {
+   "en": "Would you describe your diet as nutrient dense diet?",
+   "hi": "क्या आपका आहार nutrient dense diet है?"
+  },
+  {
+   "en": "Would you describe your diet as nutrient rich?",
+   "hi": "क्या आपका आहार nutrient rich है?"
+  },
+  {
+   "en": "Would you describe your diet as nutrient rich diet?",
+   "hi": "क्या आपका आहार nutrient rich diet है?"
+  },
+  {
+   "en": "Would you describe your diet as oily foods?",
+   "hi": "क्या आपका आहार तैलीय भोजन है?"
+  },
+  {
+   "en": "Would you describe your diet as spicy?",
+   "hi": "क्या आपका आहार spicy है?"
+  },
+  {
+   "en": "Would you describe your diet as vitamin rich?",
+   "hi": "क्या आपका आहार vitamin rich है?"
+  },
+  {
+   "en": "Do you show signs of kapha dosha imbalance?",
+   "hi": "क्या आपमें कफ दोष असंतुलन के लक्षण हैं?"
+  },
+  {
+   "en": "Do you show signs of pitta dosha imbalance?",
+   "hi": "क्या आपमें पित्त दोष असंतुलन के लक्षण हैं?"
+  },
+  {
+   "en": "Do you show signs of vata dosha imbalance?",
+   "hi": "क्या आपमें वात दोष असंतुलन के लक्षण हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with age?",
+   "hi": "क्या आप नियमित रूप से आयु वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with aging?",
+   "hi": "क्या आप नियमित रूप से aging वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with air pollution?",
+   "hi": "क्या आप नियमित रूप से वायु प्रदूषण वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with airborne transmission?",
+   "hi": "क्या आप नियमित रूप से airborne transmission वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with alcohol?",
+   "hi": "क्या आप नियमित रूप से शराब वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with alcohol use?",
+   "hi": "क्या आप नियमित रूप से alcohol use वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with allergens?",
+   "hi": "क्या आप नियमित रूप से allergens वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with allergies?",
+   "hi": "क्या आप नियमित रूप से allergies वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with animal contact?",
+   "hi": "क्या आप नियमित रूप से animal contact वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with animal exposure?",
+   "hi": "क्या आप नियमित रूप से animal exposure वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with antibiotic use?",
+   "hi": "क्या आप नियमित रूप से antibiotic use वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with autoimmune?",
+   "hi": "क्या आप नियमित रूप से autoimmune वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with autoimmune disorders?",
+   "hi": "क्या आप नियमित रूप से autoimmune disorders वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with autoimmune triggers?",
+   "hi": "क्या आप नियमित रूप से autoimmune triggers वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with cancer treatment?",
+   "hi": "क्या आप नियमित रूप से cancer treatment वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with chemicals?",
+   "hi": "क्या आप नियमित रूप से chemicals वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with close contact?",
+   "hi": "क्या आप नियमित रूप से close contact वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with close contact with infected people?",
+   "hi": "क्या आप नियमित रूप से close contact with infected people वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with cold?",
+   "hi": "क्या आप नियमित रूप से cold वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with cold air?",
+   "hi": "क्या आप नियमित रूप से ठंडी हवा वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with cold weather?",
+   "hi": "क्या आप नियमित रूप से cold weather वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with contaminated food?",
+   "hi": "क्या आप नियमित रूप से contaminated food वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with contaminated food or water?",
+   "hi": "क्या आप नियमित रूप से contaminated food or water वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with contaminated water?",
+   "hi": "क्या आप नियमित रूप से contaminated water वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with crowded areas?",
+   "hi": "क्या आप नियमित रूप से crowded areas वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with crowded places?",
+   "hi": "क्या आप नियमित रूप से crowded places वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with dehydration?",
+   "hi": "क्या आप नियमित रूप से dehydration वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with developmental delay?",
+   "hi": "क्या आप नियमित रूप से developmental delay वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with developmental environment?",
+   "hi": "क्या आप नियमित रूप से developmental environment वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with diabetes?",
+   "hi": "क्या आप नियमित रूप से diabetes वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with dry environments?",
+   "hi": "क्या आप नियमित रूप से dry environments वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with dust?",
+   "hi": "क्या आप नियमित रूप से धूल वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with environmental factors?",
+   "hi": "क्या आप नियमित रूप से environmental factors वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with environmental toxins?",
+   "hi": "क्या आप नियमित रूप से environmental toxins वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with environmental triggers?",
+   "hi": "क्या आप नियमित रूप से environmental triggers वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with exposure to infected individuals?",
+   "hi": "क्या आप नियमित रूप से exposure to infected individuals वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with family history?",
+   "hi": "क्या आप नियमित रूप से पारिवारिक इतिहास वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with fatty diet?",
+   "hi": "क्या आप नियमित रूप से fatty diet वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with genetic?",
+   "hi": "क्या आप नियमित रूप से आनुवंशिक वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with genetic factors?",
+   "hi": "क्या आप नियमित रूप से genetic factors वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with genetic mutation?",
+   "hi": "क्या आप नियमित रूप से आनुवंशिक उत्परिवर्तन वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with genetic mutations?",
+   "hi": "क्या आप नियमित रूप से आनुवंशिक उत्परिवर्तन वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with genetic predisposition?",
+   "hi": "क्या आप नियमित रूप से genetic predisposition वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with genetics?",
+   "hi": "क्या आप नियमित रूप से आनुवंशिकी वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with hepatitis?",
+   "hi": "क्या आप नियमित रूप से hepatitis वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with high blood pressure?",
+   "hi": "क्या आप नियमित रूप से उच्च रक्तचाप वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with high blood sugar?",
+   "hi": "क्या आप नियमित रूप से high blood sugar वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with high caffeine intake?",
+   "hi": "क्या आप नियमित रूप से high caffeine intake वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with high cholesterol?",
+   "hi": "क्या आप नियमित रूप से high cholesterol वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with high fat diet?",
+   "hi": "क्या आप नियमित रूप से high fat diet वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with high protein intake?",
+   "hi": "क्या आप नियमित रूप से high protein intake वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with high rainfall?",
+   "hi": "क्या आप नियमित रूप से high rainfall वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with high salt diet?",
+   "hi": "क्या आप नियमित रूप से high salt diet वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with high sugar intake?",
+   "hi": "क्या आप नियमित रूप से high sugar intake वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with hormonal changes?",
+   "hi": "क्या आप नियमित रूप से hormonal changes वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with hormonal imbalance?",
+   "hi": "क्या आप नियमित रूप से hormonal imbalance वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with hormonal imbalances?",
+   "hi": "क्या आप नियमित रूप से hormonal imbalances वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with hot?",
+   "hi": "क्या आप नियमित रूप से hot वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with human to human contact?",
+   "hi": "क्या आप नियमित रूप से human to human contact वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with hypertension?",
+   "hi": "क्या आप नियमित रूप से hypertension वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with immunocompromised?",
+   "hi": "क्या आप नियमित रूप से immunocompromised वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with infection?",
+   "hi": "क्या आप नियमित रूप से संक्रमण वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with infections?",
+   "hi": "क्या आप नियमित रूप से संक्रमण वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with insect bites?",
+   "hi": "क्या आप नियमित रूप से insect bites वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with iodine deficiency?",
+   "hi": "क्या आप नियमित रूप से iodine deficiency वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with irritants?",
+   "hi": "क्या आप नियमित रूप से irritants वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with joint strain?",
+   "hi": "क्या आप नियमित रूप से joint strain वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with kidney dysfunction?",
+   "hi": "क्या आप नियमित रूप से kidney dysfunction वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with lack of exercise?",
+   "hi": "क्या आप नियमित रूप से lack of exercise वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with lack of sleep?",
+   "hi": "क्या आप नियमित रूप से lack of sleep वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with liver dysfunction?",
+   "hi": "क्या आप नियमित रूप से liver dysfunction वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with loud sounds?",
+   "hi": "क्या आप नियमित रूप से loud sounds वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with low oxygen environments?",
+   "hi": "क्या आप नियमित रूप से low oxygen environments वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with mosquito exposure?",
+   "hi": "क्या आप नियमित रूप से mosquito exposure वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with mosquitoes?",
+   "hi": "क्या आप नियमित रूप से mosquitoes वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with needle sharing?",
+   "hi": "क्या आप नियमित रूप से needle sharing वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with noise?",
+   "hi": "क्या आप नियमित रूप से noise वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with obesity?",
+   "hi": "क्या आप नियमित रूप से मोटापा वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with oily skin?",
+   "hi": "क्या आप नियमित रूप से oily skin वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with overeating?",
+   "hi": "क्या आप नियमित रूप से overeating वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with overwork?",
+   "hi": "क्या आप नियमित रूप से overwork वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with personal issues?",
+   "hi": "क्या आप नियमित रूप से personal issues वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with physical inactivity?",
+   "hi": "क्या आप नियमित रूप से physical inactivity वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with physical strain?",
+   "hi": "क्या आप नियमित रूप से physical strain वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with pollen?",
+   "hi": "क्या आप नियमित रूप से पराग वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with pollution?",
+   "hi": "क्या आप नियमित रूप से प्रदूषण वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with poor diet?",
+   "hi": "क्या आप नियमित रूप से poor diet वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with poor hygiene?",
+   "hi": "क्या आप नियमित रूप से खराब स्वच्छता वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with poor kidney function?",
+   "hi": "क्या आप नियमित रूप से poor kidney function वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with poor oral hygiene?",
+   "hi": "क्या आप नियमित रूप से poor oral hygiene वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with poor posture?",
+   "hi": "क्या आप नियमित रूप से poor posture वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with poor protein metabolism?",
+   "hi": "क्या आप नियमित रूप से poor protein metabolism वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with poor sanitation?",
+   "hi": "क्या आप नियमित रूप से खराब स्वच्छता वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with radiation?",
+   "hi": "क्या आप नियमित रूप से radiation वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with respiratory infections?",
+   "hi": "क्या आप नियमित रूप से respiratory infections वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with rodent exposure?",
+   "hi": "क्या आप नियमित रूप से rodent exposure वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with rural areas?",
+   "hi": "क्या आप नियमित रूप से rural areas वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with sedentary lifestyle?",
+   "hi": "क्या आप नियमित रूप से गतिहीन जीवनशैली वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with smoking?",
+   "hi": "क्या आप नियमित रूप से धूम्रपान वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with spicy food?",
+   "hi": "क्या आप नियमित रूप से spicy food वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with spicy foods?",
+   "hi": "क्या आप नियमित रूप से मसालेदार भोजन वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with stress?",
+   "hi": "क्या आप नियमित रूप से तनाव वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with sun exposure?",
+   "hi": "क्या आप नियमित रूप से sun exposure वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with tick exposure?",
+   "hi": "क्या आप नियमित रूप से tick exposure वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with toxins?",
+   "hi": "क्या आप नियमित रूप से toxins वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with trauma?",
+   "hi": "क्या आप नियमित रूप से trauma वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with tropical areas?",
+   "hi": "क्या आप नियमित रूप से tropical areas वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with tropical environments?",
+   "hi": "क्या आप नियमित रूप से tropical environments वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with tropical regions?",
+   "hi": "क्या आप नियमित रूप से tropical regions वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with unprotected sex?",
+   "hi": "क्या आप नियमित रूप से unprotected sex वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with viral?",
+   "hi": "क्या आप नियमित रूप से viral वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with viral infection?",
+   "hi": "क्या आप नियमित रूप से विषाणु संक्रमण वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with viral infections?",
+   "hi": "क्या आप नियमित रूप से विषाणु संक्रमण वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with warm climates?",
+   "hi": "क्या आप नियमित रूप से warm climates वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with weakened immune system?",
+   "hi": "क्या आप नियमित रूप से weakened immune system वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with weather changes?",
+   "hi": "क्या आप नियमित रूप से weather changes वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Are you regularly in an environment with wet environments?",
+   "hi": "क्या आप नियमित रूप से wet environments वाले वातावरण में रहते हैं?"
+  },
+  {
+   "en": "Does anyone in your family have family history of allergies?",
+   "hi": "क्या आपके परिवार में किसी को family history of allergies है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of als?",
+   "hi": "क्या आपके परिवार में किसी को family history of als है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of anemia?",
+   "hi": "क्या आपके परिवार में किसी को family history of anemia है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of anxiety?",
+   "hi": "क्या आपके परिवार में किसी को family history of anxiety है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of arthritis?",
+   "hi": "क्या आपके परिवार में किसी को family history of arthritis है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of asthma?",
+   "hi": "क्या आपके परिवार में किसी को family history of asthma है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of autoimmune diseases?",
+   "hi": "क्या आपके परिवार में किसी को family history of autoimmune diseases है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of back problems?",
+   "hi": "क्या आपके परिवार में किसी को family history of back problems है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of barth syndrome?",
+   "hi": "क्या आपके परिवार में किसी को family history of barth syndrome है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of blood disorders?",
+   "hi": "क्या आपके परिवार में किसी को family history of blood disorders है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of bone disorders?",
+   "hi": "क्या आपके परिवार में किसी को family history of bone disorders है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of cancer?",
+   "hi": "क्या आपके परिवार में किसी को family history of cancer है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of cystic fibrosis?",
+   "hi": "क्या आपके परिवार में किसी को family history of cystic fibrosis है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of dementia?",
+   "hi": "क्या आपके परिवार में किसी को family history of dementia है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of depression?",
+   "hi": "क्या आपके परिवार में किसी को family history of depression है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of diabetes?",
+   "hi": "क्या आपके परिवार में किसी को family history of diabetes है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of eczema?",
+   "hi": "क्या आपके परिवार में किसी को family history of eczema है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of endocrine disorders?",
+   "hi": "क्या आपके परिवार में किसी को family history of endocrine disorders है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of epilepsy?",
+   "hi": "क्या आपके परिवार में किसी को family history of epilepsy है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of fibromyalgia?",
+   "hi": "क्या आपके परिवार में किसी को family history of fibromyalgia है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of gallstones?",
+   "hi": "क्या आपके परिवार में किसी को family history of gallstones है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of gastrointestinal issues?",
+   "hi": "क्या आपके परिवार में किसी को family history of gastrointestinal issues है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of genetic disorders?",
+   "hi": "क्या आपके परिवार में किसी को family history of genetic disorders है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of gout?",
+   "hi": "क्या आपके परिवार में किसी को family history of gout है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of hair loss?",
+   "hi": "क्या आपके परिवार में किसी को family history of hair loss है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of heart disease?",
+   "hi": "क्या आपके परिवार में किसी को family history of heart disease है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of hepatitis?",
+   "hi": "क्या आपके परिवार में किसी को family history of hepatitis है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of hypertension?",
+   "hi": "क्या आपके परिवार में किसी को family history of hypertension है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of ibd?",
+   "hi": "क्या आपके परिवार में किसी को family history of ibd है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of ibs?",
+   "hi": "क्या आपके परिवार में किसी को family history of ibs है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of infections?",
+   "hi": "क्या आपके परिवार में किसी को family history of infections है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of insomnia?",
+   "hi": "क्या आपके परिवार में किसी को family history of insomnia है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of joint disorders?",
+   "hi": "क्या आपके परिवार में किसी को family history of joint disorders है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of kidney disease?",
+   "hi": "क्या आपके परिवार में किसी को family history of kidney disease है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of kidney stones?",
+   "hi": "क्या आपके परिवार में किसी को family history of kidney stones है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of leprosy?",
+   "hi": "क्या आपके परिवार में किसी को family history of leprosy है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of leukemia?",
+   "hi": "क्या आपके परिवार में किसी को family history of leukemia है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of liver disease?",
+   "hi": "क्या आपके परिवार में किसी को family history of liver disease है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of lung disease?",
+   "hi": "क्या आपके परिवार में किसी को family history of lung disease है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of lymphoma?",
+   "hi": "क्या आपके परिवार में किसी को family history of lymphoma है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of malaria?",
+   "hi": "क्या आपके परिवार में किसी को family history of malaria है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of measles?",
+   "hi": "क्या आपके परिवार में किसी को family history of measles है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of melanoma?",
+   "hi": "क्या आपके परिवार में किसी को family history of melanoma है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of metabolic disorders?",
+   "hi": "क्या आपके परिवार में किसी को family history of metabolic disorders है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of migraines?",
+   "hi": "क्या आपके परिवार में किसी को family history of migraines है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of ms?",
+   "hi": "क्या आपके परिवार में किसी को family history of ms है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of obesity?",
+   "hi": "क्या आपके परिवार में किसी को family history of obesity है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of osteoporosis?",
+   "hi": "क्या आपके परिवार में किसी को family history of osteoporosis है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of parasitic infections?",
+   "hi": "क्या आपके परिवार में किसी को family history of parasitic infections है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of parkinson s?",
+   "hi": "क्या आपके परिवार में किसी को family history of parkinson s है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of psoriasis?",
+   "hi": "क्या आपके परिवार में किसी को family history of psoriasis है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of respiratory issues?",
+   "hi": "क्या आपके परिवार में किसी को family history of respiratory issues है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of sinus issues?",
+   "hi": "क्या आपके परिवार में किसी को family history of sinus issues है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of skin conditions?",
+   "hi": "क्या आपके परिवार में किसी को family history of skin conditions है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of sleep disorders?",
+   "hi": "क्या आपके परिवार में किसी को family history of sleep disorders है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of stroke?",
+   "hi": "क्या आपके परिवार में किसी को family history of stroke है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of tb?",
+   "hi": "क्या आपके परिवार में किसी को family history of tb है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of thyroid disorders?",
+   "hi": "क्या आपके परिवार में किसी को family history of thyroid disorders है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of ulcers?",
+   "hi": "क्या आपके परिवार में किसी को family history of ulcers है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of utis?",
+   "hi": "क्या आपके परिवार में किसी को family history of utis है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of viral infections?",
+   "hi": "क्या आपके परिवार में किसी को family history of viral infections है?"
+  },
+  {
+   "en": "Does anyone in your family have family history of wilson s disease?",
+   "hi": "क्या आपके परिवार में किसी को family history of wilson s disease है?"
+  },
+  {
+   "en": "Does anyone in your family have no family history?",
+   "hi": "क्या आपके परिवार में किसी को कोई पारिवारिक इतिहास नहीं है?"
+  },
+  {
+   "en": "Does anyone in your family have no significant family history?",
+   "hi": "क्या आपके परिवार में किसी को no significant family history है?"
+  },
+  {
+   "en": "Do you identify as all genders?",
+   "hi": "क्या आप सभी लिंग हैं?"
+  },
+  {
+   "en": "Do you identify as both genders?",
+   "hi": "क्या आप दोनों लिंग हैं?"
+  },
+  {
+   "en": "Do you identify as female?",
+   "hi": "क्या आप महिला हैं?"
+  },
+  {
+   "en": "Do you identify as male?",
+   "hi": "क्या आप पुरुष हैं?"
+  },
+  {
+   "en": "Do you identify as males?",
+   "hi": "क्या आप males हैं?"
+  },
+  {
+   "en": "Do you identify as mostly female?",
+   "hi": "क्या आप mostly female हैं?"
+  },
+  {
+   "en": "Do you identify as mostly male?",
+   "hi": "क्या आप mostly male हैं?"
+  },
+  {
+   "en": "Have you previously been diagnosed with age?",
+   "hi": "क्या आपको पहले कभी आयु रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with age related?",
+   "hi": "क्या आपको पहले कभी age related रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with aging?",
+   "hi": "क्या आपको पहले कभी aging रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with aids?",
+   "hi": "क्या आपको पहले कभी aids रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with air pollution?",
+   "hi": "क्या आपको पहले कभी वायु प्रदूषण रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with alcohol abuse?",
+   "hi": "क्या आपको पहले कभी alcohol abuse रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with alcohol consumption?",
+   "hi": "क्या आपको पहले कभी alcohol consumption रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with alcohol use?",
+   "hi": "क्या आपको पहले कभी alcohol use रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with alcoholism?",
+   "hi": "क्या आपको पहले कभी alcoholism रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with allergies?",
+   "hi": "क्या आपको पहले कभी allergies रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with animal exposure?",
+   "hi": "क्या आपको पहले कभी animal exposure रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with anxiety?",
+   "hi": "क्या आपको पहले कभी चिंता रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with asthma?",
+   "hi": "क्या आपको पहले कभी asthma रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with autoimmune?",
+   "hi": "क्या आपको पहले कभी autoimmune रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with autoimmune conditions?",
+   "hi": "क्या आपको पहले कभी autoimmune conditions रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with autoimmune diseases?",
+   "hi": "क्या आपको पहले कभी autoimmune diseases रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with autoimmune disorder?",
+   "hi": "क्या आपको पहले कभी autoimmune disorder रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with autoimmune disorders?",
+   "hi": "क्या आपको पहले कभी autoimmune disorders रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with bacterial infection?",
+   "hi": "क्या आपको पहले कभी bacterial infection रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with blood disorder?",
+   "hi": "क्या आपको पहले कभी blood disorder रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with blood disorders?",
+   "hi": "क्या आपको पहले कभी blood disorders रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with brain injury?",
+   "hi": "क्या आपको पहले कभी brain injury रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with cancer?",
+   "hi": "क्या आपको पहले कभी cancer रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with cardiovascular disease?",
+   "hi": "क्या आपको पहले कभी cardiovascular disease रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with cardiovascular disorders?",
+   "hi": "क्या आपको पहले कभी cardiovascular disorders रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with connective tissue disorders?",
+   "hi": "क्या आपको पहले कभी connective tissue disorders रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with contact with infected individuals?",
+   "hi": "क्या आपको पहले कभी contact with infected individuals रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with contaminated food?",
+   "hi": "क्या आपको पहले कभी contaminated food रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with contaminated water?",
+   "hi": "क्या आपको पहले कभी contaminated water रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with dehydration?",
+   "hi": "क्या आपको पहले कभी dehydration रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with depression?",
+   "hi": "क्या आपको पहले कभी अवसाद रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with developmental delays?",
+   "hi": "क्या आपको पहले कभी developmental delays रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with developmental disorders?",
+   "hi": "क्या आपको पहले कभी developmental disorders रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with diabetes?",
+   "hi": "क्या आपको पहले कभी diabetes रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with diet?",
+   "hi": "क्या आपको पहले कभी diet रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with eczema?",
+   "hi": "क्या आपको पहले कभी eczema रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with endemic areas?",
+   "hi": "क्या आपको पहले कभी endemic areas रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with exposure?",
+   "hi": "क्या आपको पहले कभी exposure रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with family history?",
+   "hi": "क्या आपको पहले कभी पारिवारिक इतिहास रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with family history of cancer?",
+   "hi": "क्या आपको पहले कभी family history of cancer रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with family history of mental disorders?",
+   "hi": "क्या आपको पहले कभी family history of mental disorders रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with family history of migraines?",
+   "hi": "क्या आपको पहले कभी family history of migraines रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with family history of thyroid disease?",
+   "hi": "क्या आपको पहले कभी family history of thyroid disease रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with fungal infection?",
+   "hi": "क्या आपको पहले कभी fungal infection रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with gallstones?",
+   "hi": "क्या आपको पहले कभी gallstones रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with genetic?",
+   "hi": "क्या आपको पहले कभी आनुवंशिक रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with genetic disorder?",
+   "hi": "क्या आपको पहले कभी genetic disorder रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with genetic factors?",
+   "hi": "क्या आपको पहले कभी genetic factors रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with genetic metabolic disorders?",
+   "hi": "क्या आपको पहले कभी genetic metabolic disorders रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with genetic mutation?",
+   "hi": "क्या आपको पहले कभी आनुवंशिक उत्परिवर्तन रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with genetics?",
+   "hi": "क्या आपको पहले कभी आनुवंशिकी रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with hay fever?",
+   "hi": "क्या आपको पहले कभी hay fever रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with heart disease?",
+   "hi": "क्या आपको पहले कभी heart disease रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with heart diseases?",
+   "hi": "क्या आपको पहले कभी heart diseases रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with hepatitis?",
+   "hi": "क्या आपको पहले कभी hepatitis रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with high blood pressure?",
+   "hi": "क्या आपको पहले कभी उच्च रक्तचाप रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with high cholesterol?",
+   "hi": "क्या आपको पहले कभी high cholesterol रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with high fat diet?",
+   "hi": "क्या आपको पहले कभी high fat diet रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with hiv?",
+   "hi": "क्या आपको पहले कभी hiv रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with hormonal imbalance?",
+   "hi": "क्या आपको पहले कभी hormonal imbalance रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with hypertension?",
+   "hi": "क्या आपको पहले कभी hypertension रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with hyperthyroidism?",
+   "hi": "क्या आपको पहले कभी hyperthyroidism रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with hypothyroidism?",
+   "hi": "क्या आपको पहले कभी hypothyroidism रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with immune system issues?",
+   "hi": "क्या आपको पहले कभी immune system issues रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with infection?",
+   "hi": "क्या आपको पहले कभी संक्रमण रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with infections?",
+   "hi": "क्या आपको पहले कभी संक्रमण रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with injury?",
+   "hi": "क्या आपको पहले कभी injury रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with insect bites?",
+   "hi": "क्या आपको पहले कभी insect bites रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with joint inflammation?",
+   "hi": "क्या आपको पहले कभी joint inflammation रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with joint pain?",
+   "hi": "क्या आपको पहले कभी जोड़ों का दर्द रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with kidney disease?",
+   "hi": "क्या आपको पहले कभी kidney disease रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with kidney disorders?",
+   "hi": "क्या आपको पहले कभी kidney disorders रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with lack of vaccination?",
+   "hi": "क्या आपको पहले कभी lack of vaccination रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with low fiber diet?",
+   "hi": "क्या आपको पहले कभी low fiber diet रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with metabolic disorders?",
+   "hi": "क्या आपको पहले कभी metabolic disorders रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with mitochondrial disorders?",
+   "hi": "क्या आपको पहले कभी mitochondrial disorders रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with mosquito bites?",
+   "hi": "क्या आपको पहले कभी mosquito bites रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with mosquito borne viral infection?",
+   "hi": "क्या आपको पहले कभी mosquito borne viral infection रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with mosquito borne virus?",
+   "hi": "क्या आपको पहले कभी mosquito borne virus रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with mosquitoes?",
+   "hi": "क्या आपको पहले कभी mosquitoes रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with muscle weakness?",
+   "hi": "क्या आपको पहले कभी मांसपेशियों की कमजोरी रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with neurological?",
+   "hi": "क्या आपको पहले कभी neurological रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with obesity?",
+   "hi": "क्या आपको पहले कभी मोटापा रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with overeating?",
+   "hi": "क्या आपको पहले कभी overeating रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with parasitic infection?",
+   "hi": "क्या आपको पहले कभी parasitic infection रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with poor diet?",
+   "hi": "क्या आपको पहले कभी poor diet रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with poor hygiene?",
+   "hi": "क्या आपको पहले कभी खराब स्वच्छता रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with poor posture?",
+   "hi": "क्या आपको पहले कभी poor posture रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with poor sanitation?",
+   "hi": "क्या आपको पहले कभी खराब स्वच्छता रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with pregnancy?",
+   "hi": "क्या आपको पहले कभी pregnancy रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with respiratory infection?",
+   "hi": "क्या आपको पहले कभी respiratory infection रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with respiratory infections?",
+   "hi": "क्या आपको पहले कभी respiratory infections रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with respiratory issues?",
+   "hi": "क्या आपको पहले कभी respiratory issues रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with rural areas?",
+   "hi": "क्या आपको पहले कभी rural areas रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with sedentary lifestyle?",
+   "hi": "क्या आपको पहले कभी गतिहीन जीवनशैली रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with skin condition?",
+   "hi": "क्या आपको पहले कभी skin condition रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with smoking?",
+   "hi": "क्या आपको पहले कभी धूम्रपान रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with stress?",
+   "hi": "क्या आपको पहले कभी तनाव रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with stroke?",
+   "hi": "क्या आपको पहले कभी stroke रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with sun exposure?",
+   "hi": "क्या आपको पहले कभी sun exposure रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with thyroid dysfunction?",
+   "hi": "क्या आपको पहले कभी thyroid dysfunction रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with tick bites?",
+   "hi": "क्या आपको पहले कभी tick bites रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with trauma?",
+   "hi": "क्या आपको पहले कभी trauma रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with tropical areas?",
+   "hi": "क्या आपको पहले कभी tropical areas रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with tropical regions?",
+   "hi": "क्या आपको पहले कभी tropical regions रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with tuberculosis?",
+   "hi": "क्या आपको पहले कभी tuberculosis रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with tumor growth?",
+   "hi": "क्या आपको पहले कभी tumor growth रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with unprotected sex?",
+   "hi": "क्या आपको पहले कभी unprotected sex रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with viral?",
+   "hi": "क्या आपको पहले कभी viral रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with viral infection?",
+   "hi": "क्या आपको पहले कभी विषाणु संक्रमण रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with viral infections?",
+   "hi": "क्या आपको पहले कभी विषाणु संक्रमण रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with waterborne?",
+   "hi": "क्या आपको पहले कभी waterborne रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with weak immune system?",
+   "hi": "क्या आपको पहले कभी weak immune system रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with weakened immune system?",
+   "hi": "क्या आपको पहले कभी weakened immune system रहा है?"
+  },
+  {
+   "en": "Have you previously been diagnosed with x linked disorders?",
+   "hi": "क्या आपको पहले कभी x linked disorders रहा है?"
+  },
+  {
+   "en": "Does active describe your occupation or lifestyle?",
+   "hi": "क्या active आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does active lifestyle describe your occupation or lifestyle?",
+   "hi": "क्या active lifestyle आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does agricultural areas describe your occupation or lifestyle?",
+   "hi": "क्या agricultural areas आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does agricultural work describe your occupation or lifestyle?",
+   "hi": "क्या agricultural work आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does avoids contaminated water describe your occupation or lifestyle?",
+   "hi": "क्या avoids contaminated water आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does avoids insect exposure describe your occupation or lifestyle?",
+   "hi": "क्या avoids insect exposure आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does avoids mosquito bites describe your occupation or lifestyle?",
+   "hi": "क्या avoids mosquito bites आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does avoids outdoor exposure describe your occupation or lifestyle?",
+   "hi": "क्या avoids outdoor exposure आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does avoids undercooked meat describe your occupation or lifestyle?",
+   "hi": "क्या avoids undercooked meat आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does close contact describe your occupation or lifestyle?",
+   "hi": "क्या close contact आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does desk job describe your occupation or lifestyle?",
+   "hi": "क्या डेस्क जॉब आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does desk jobs describe your occupation or lifestyle?",
+   "hi": "क्या desk jobs आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does exposure to allergens describe your occupation or lifestyle?",
+   "hi": "क्या exposure to allergens आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does exposure to animals describe your occupation or lifestyle?",
+   "hi": "क्या exposure to animals आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does exposure to unsanitary conditions describe your occupation or lifestyle?",
+   "hi": "क्या exposure to unsanitary conditions आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does family care describe your occupation or lifestyle?",
+   "hi": "क्या family care आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does high stress describe your occupation or lifestyle?",
+   "hi": "क्या उच्च तनाव आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does high stress job describe your occupation or lifestyle?",
+   "hi": "क्या high stress job आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does high stress jobs describe your occupation or lifestyle?",
+   "hi": "क्या high stress jobs आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does high stress work describe your occupation or lifestyle?",
+   "hi": "क्या high stress work आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does home care describe your occupation or lifestyle?",
+   "hi": "क्या home care आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does limited physical activity describe your occupation or lifestyle?",
+   "hi": "क्या limited physical activity आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does low activity describe your occupation or lifestyle?",
+   "hi": "क्या low activity आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does low physical activity describe your occupation or lifestyle?",
+   "hi": "क्या low physical activity आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does medical care describe your occupation or lifestyle?",
+   "hi": "क्या medical care आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does medical jobs describe your occupation or lifestyle?",
+   "hi": "क्या medical jobs आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does occupational exposure describe your occupation or lifestyle?",
+   "hi": "क्या occupational exposure आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does office job describe your occupation or lifestyle?",
+   "hi": "क्या office job आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does office jobs describe your occupation or lifestyle?",
+   "hi": "क्या office jobs आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does office work describe your occupation or lifestyle?",
+   "hi": "क्या office work आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does outdoor describe your occupation or lifestyle?",
+   "hi": "क्या outdoor आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does poor hygiene areas describe your occupation or lifestyle?",
+   "hi": "क्या poor hygiene areas आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does poor sanitation describe your occupation or lifestyle?",
+   "hi": "क्या खराब स्वच्छता आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does poor sanitation areas describe your occupation or lifestyle?",
+   "hi": "क्या poor sanitation areas आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does remote areas describe your occupation or lifestyle?",
+   "hi": "क्या remote areas आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires antibiotics describe your occupation or lifestyle?",
+   "hi": "क्या requires antibiotics आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires antifungal treatment describe your occupation or lifestyle?",
+   "hi": "क्या requires antifungal treatment आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires cancer treatment describe your occupation or lifestyle?",
+   "hi": "क्या requires cancer treatment आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires caregiver support describe your occupation or lifestyle?",
+   "hi": "क्या requires caregiver support आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires chemotherapy describe your occupation or lifestyle?",
+   "hi": "क्या requires chemotherapy आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires dietary control describe your occupation or lifestyle?",
+   "hi": "क्या requires dietary control आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires heart monitoring describe your occupation or lifestyle?",
+   "hi": "क्या requires heart monitoring आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires hydration describe your occupation or lifestyle?",
+   "hi": "क्या requires hydration आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires hygiene describe your occupation or lifestyle?",
+   "hi": "क्या requires hygiene आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires hygiene practices describe your occupation or lifestyle?",
+   "hi": "क्या requires hygiene practices आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires immune monitoring describe your occupation or lifestyle?",
+   "hi": "क्या requires immune monitoring आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires inhalers describe your occupation or lifestyle?",
+   "hi": "क्या requires inhalers आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires joint care describe your occupation or lifestyle?",
+   "hi": "क्या requires joint care आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires kidney monitoring describe your occupation or lifestyle?",
+   "hi": "क्या requires kidney monitoring आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires lifestyle change describe your occupation or lifestyle?",
+   "hi": "क्या requires lifestyle change आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires liver monitoring describe your occupation or lifestyle?",
+   "hi": "क्या requires liver monitoring आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires medical treatment describe your occupation or lifestyle?",
+   "hi": "क्या requires medical treatment आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires medication describe your occupation or lifestyle?",
+   "hi": "क्या requires medication आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires monitoring describe your occupation or lifestyle?",
+   "hi": "क्या requires monitoring आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires nasal care describe your occupation or lifestyle?",
+   "hi": "क्या requires nasal care आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires ongoing monitoring describe your occupation or lifestyle?",
+   "hi": "क्या requires ongoing monitoring आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires ongoing treatment describe your occupation or lifestyle?",
+   "hi": "क्या requires ongoing treatment आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires pain management describe your occupation or lifestyle?",
+   "hi": "क्या requires pain management आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires physical therapy describe your occupation or lifestyle?",
+   "hi": "क्या requires physical therapy आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires posture correction describe your occupation or lifestyle?",
+   "hi": "क्या requires posture correction आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires psychological support describe your occupation or lifestyle?",
+   "hi": "क्या requires psychological support आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires regular check ups describe your occupation or lifestyle?",
+   "hi": "क्या requires regular check ups आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires regular monitoring describe your occupation or lifestyle?",
+   "hi": "क्या requires regular monitoring आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires rehabilitation describe your occupation or lifestyle?",
+   "hi": "क्या requires rehabilitation आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires respiratory care describe your occupation or lifestyle?",
+   "hi": "क्या requires respiratory care आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires skin care describe your occupation or lifestyle?",
+   "hi": "क्या requires skin care आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires skin care routine describe your occupation or lifestyle?",
+   "hi": "क्या requires skin care routine आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires special care describe your occupation or lifestyle?",
+   "hi": "क्या requires special care आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires sun protection describe your occupation or lifestyle?",
+   "hi": "क्या requires sun protection आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires surgery describe your occupation or lifestyle?",
+   "hi": "क्या requires surgery आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires therapy describe your occupation or lifestyle?",
+   "hi": "क्या requires therapy आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does requires thyroid monitoring describe your occupation or lifestyle?",
+   "hi": "क्या requires thyroid monitoring आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does rural describe your occupation or lifestyle?",
+   "hi": "क्या rural आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does rural areas describe your occupation or lifestyle?",
+   "hi": "क्या rural areas आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does schools describe your occupation or lifestyle?",
+   "hi": "क्या schools आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does sedentary describe your occupation or lifestyle?",
+   "hi": "क्या निष्क्रिय आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does sedentary job describe your occupation or lifestyle?",
+   "hi": "क्या sedentary job आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does sedentary lifestyle describe your occupation or lifestyle?",
+   "hi": "क्या गतिहीन जीवनशैली आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does special care describe your occupation or lifestyle?",
+   "hi": "क्या special care आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does special medical care describe your occupation or lifestyle?",
+   "hi": "क्या special medical care आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does stress describe your occupation or lifestyle?",
+   "hi": "क्या तनाव आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does stressful jobs describe your occupation or lifestyle?",
+   "hi": "क्या stressful jobs आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does stressful lifestyle describe your occupation or lifestyle?",
+   "hi": "क्या stressful lifestyle आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does stressful work describe your occupation or lifestyle?",
+   "hi": "क्या stressful work आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does stressful work environments describe your occupation or lifestyle?",
+   "hi": "क्या stressful work environments आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Does tropical areas describe your occupation or lifestyle?",
+   "hi": "क्या tropical areas आपके व्यवसाय या जीवनशैली का वर्णन करता है?"
+  },
+  {
+   "en": "Is your level of physical activity low?",
+   "hi": "क्या आपकी शारीरिक गतिविधि कम है?"
+  },
+  {
+   "en": "Is your level of physical activity low to moderate?",
+   "hi": "क्या आपकी शारीरिक गतिविधि low to moderate है?"
+  },
+  {
+   "en": "Is your level of physical activity moderate?",
+   "hi": "क्या आपकी शारीरिक गतिविधि मध्यम है?"
+  },
+  {
+   "en": "Is your level of physical activity moderate to high?",
+   "hi": "क्या आपकी शारीरिक गतिविधि moderate to high है?"
+  },
+  {
+   "en": "Is your level of physical activity moderate to low?",
+   "hi": "क्या आपकी शारीरिक गतिविधि moderate to low है?"
+  },
+  {
+   "en": "Have you been exposed to accidents?",
+   "hi": "क्या आप accidents के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to age?",
+   "hi": "क्या आप आयु के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to age 40?",
+   "hi": "क्या आप age 40 के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to aging?",
+   "hi": "क्या आप aging के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to aids?",
+   "hi": "क्या आप aids के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to air pollution?",
+   "hi": "क्या आप वायु प्रदूषण के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to alcohol?",
+   "hi": "क्या आप शराब के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to alcohol use?",
+   "hi": "क्या आप alcohol use के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to allergies?",
+   "hi": "क्या आप allergies के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to animal bites?",
+   "hi": "क्या आप animal bites के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to animal exposure?",
+   "hi": "क्या आप animal exposure के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to anxiety?",
+   "hi": "क्या आप चिंता के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to autoimmune diseases?",
+   "hi": "क्या आप autoimmune diseases के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to autoimmune disorders?",
+   "hi": "क्या आप autoimmune disorders के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to autoimmune factors?",
+   "hi": "क्या आप autoimmune factors के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to autoimmune issues?",
+   "hi": "क्या आप autoimmune issues के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to brain injury?",
+   "hi": "क्या आप brain injury के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to chemical exposure?",
+   "hi": "क्या आप chemical exposure के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to close contact?",
+   "hi": "क्या आप close contact के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to consumption of contaminated food?",
+   "hi": "क्या आप consumption of contaminated food के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to contact with infected animals?",
+   "hi": "क्या आप contact with infected animals के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to contact with infected body fluids?",
+   "hi": "क्या आप contact with infected body fluids के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to contact with infected individuals?",
+   "hi": "क्या आप contact with infected individuals के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to contaminated food?",
+   "hi": "क्या आप contaminated food के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to contaminated soil?",
+   "hi": "क्या आप contaminated soil के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to contaminated water?",
+   "hi": "क्या आप contaminated water के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to dehydration?",
+   "hi": "क्या आप dehydration के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to diabetes?",
+   "hi": "क्या आप diabetes के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to diet?",
+   "hi": "क्या आप diet के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to dry skin?",
+   "hi": "क्या आप dry skin के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to environmental factors?",
+   "hi": "क्या आप environmental factors के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to environmental toxins?",
+   "hi": "क्या आप environmental toxins के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to exposure to contaminated soil?",
+   "hi": "क्या आप exposure to contaminated soil के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to family history?",
+   "hi": "क्या आप पारिवारिक इतिहास के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to female gender?",
+   "hi": "क्या आप female gender के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to flea bites?",
+   "hi": "क्या आप flea bites के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to gallstones?",
+   "hi": "क्या आप gallstones के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to genetic factors?",
+   "hi": "क्या आप genetic factors के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to genetic mutation?",
+   "hi": "क्या आप आनुवंशिक उत्परिवर्तन के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to genetic mutations?",
+   "hi": "क्या आप आनुवंशिक उत्परिवर्तन के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to genetics?",
+   "hi": "क्या आप आनुवंशिकी के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to gluten consumption?",
+   "hi": "क्या आप gluten consumption के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to h pylori infection?",
+   "hi": "क्या आप h pylori infection के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to head trauma?",
+   "hi": "क्या आप head trauma के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to heart disease?",
+   "hi": "क्या आप heart disease के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to hepatitis?",
+   "hi": "क्या आप hepatitis के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to high blood pressure?",
+   "hi": "क्या आप उच्च रक्तचाप के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to high cholesterol?",
+   "hi": "क्या आप high cholesterol के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to high fat diet?",
+   "hi": "क्या आप high fat diet के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to hiv?",
+   "hi": "क्या आप hiv के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to hormonal changes?",
+   "hi": "क्या आप hormonal changes के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to hormonal imbalance?",
+   "hi": "क्या आप hormonal imbalance के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to hormonal imbalances?",
+   "hi": "क्या आप hormonal imbalances के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to hypertension?",
+   "hi": "क्या आप hypertension के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to immune system dysfunction?",
+   "hi": "क्या आप immune system dysfunction के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to immune weakness?",
+   "hi": "क्या आप immune weakness के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to infected sandflies?",
+   "hi": "क्या आप infected sandflies के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to infection?",
+   "hi": "क्या आप संक्रमण के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to infections?",
+   "hi": "क्या आप संक्रमण के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to injury?",
+   "hi": "क्या आप injury के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to insect bites?",
+   "hi": "क्या आप insect bites के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to iodine deficiency?",
+   "hi": "क्या आप iodine deficiency के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to kidney disease?",
+   "hi": "क्या आप kidney disease के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to lack of exercise?",
+   "hi": "क्या आप lack of exercise के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to lack of hygiene?",
+   "hi": "क्या आप lack of hygiene के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to lack of vaccination?",
+   "hi": "क्या आप lack of vaccination के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to low fiber diet?",
+   "hi": "क्या आप low fiber diet के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to mosquito bites?",
+   "hi": "क्या आप mosquito bites के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to obesity?",
+   "hi": "क्या आप मोटापा के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to oily skin?",
+   "hi": "क्या आप oily skin के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to overeating?",
+   "hi": "क्या आप overeating के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to overuse?",
+   "hi": "क्या आप overuse के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to pollution?",
+   "hi": "क्या आप प्रदूषण के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to poor diet?",
+   "hi": "क्या आप poor diet के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to poor hygiene?",
+   "hi": "क्या आप खराब स्वच्छता के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to poor posture?",
+   "hi": "क्या आप poor posture के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to poor sanitation?",
+   "hi": "क्या आप खराब स्वच्छता के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to pregnancy?",
+   "hi": "क्या आप pregnancy के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to radiation exposure?",
+   "hi": "क्या आप radiation exposure के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to respiratory infections?",
+   "hi": "क्या आप respiratory infections के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to rodent exposure?",
+   "hi": "क्या आप rodent exposure के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to sedentary lifestyle?",
+   "hi": "क्या आप गतिहीन जीवनशैली के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to sexual activity?",
+   "hi": "क्या आप sexual activity के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to smoking?",
+   "hi": "क्या आप धूम्रपान के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to stress?",
+   "hi": "क्या आप तनाव के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to substance abuse?",
+   "hi": "क्या आप substance abuse के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to sun exposure?",
+   "hi": "क्या आप sun exposure के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to trauma?",
+   "hi": "क्या आप trauma के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to travel to endemic areas?",
+   "hi": "क्या आप travel to endemic areas के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to tumors?",
+   "hi": "क्या आप tumors के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to unprotected sex?",
+   "hi": "क्या आप unprotected sex के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to uv exposure?",
+   "hi": "क्या आप uv exposure के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to viral infections?",
+   "hi": "क्या आप विषाणु संक्रमण के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to water?",
+   "hi": "क्या आप water के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to weak immune system?",
+   "hi": "क्या आप weak immune system के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to weakened immune system?",
+   "hi": "क्या आप weakened immune system के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Have you been exposed to work pressure?",
+   "hi": "क्या आप work pressure के संपर्क में रहे हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during all seasons?",
+   "hi": "क्या आपके लक्षण सभी ऋतुएँ में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during cold season?",
+   "hi": "क्या आपके लक्षण cold season में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during dry season?",
+   "hi": "क्या आपके लक्षण dry season में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during dry seasons?",
+   "hi": "क्या आपके लक्षण dry seasons में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during monsoon?",
+   "hi": "क्या आपके लक्षण मानसून में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during monsoon season?",
+   "hi": "क्या आपके लक्षण monsoon season में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during rainy?",
+   "hi": "क्या आपके लक्षण वर्षा ऋतु में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during rainy season?",
+   "hi": "क्या आपके लक्षण वर्षा ऋतु में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during spring?",
+   "hi": "क्या आपके लक्षण वसंत में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during summer?",
+   "hi": "क्या आपके लक्षण गर्मी में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during summer season?",
+   "hi": "क्या आपके लक्षण summer season में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during summer seasons?",
+   "hi": "क्या आपके लक्षण summer seasons में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during tropical season?",
+   "hi": "क्या आपके लक्षण tropical season में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during wet season?",
+   "hi": "क्या आपके लक्षण wet season में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during winter?",
+   "hi": "क्या आपके लक्षण सर्दी में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Do your symptoms worsen during winter season?",
+   "hi": "क्या आपके लक्षण winter season में बढ़ जाते हैं?"
+  },
+  {
+   "en": "Would you describe your sleep as disrupted sleep?",
+   "hi": "क्या आपकी नींद disrupted sleep है?"
+  },
+  {
+   "en": "Would you describe your sleep as irregular sleep?",
+   "hi": "क्या आपकी नींद अनियमित नींद है?"
+  },
+  {
+   "en": "Would you describe your sleep as poor sleep?",
+   "hi": "क्या आपकी नींद खराब नींद है?"
+  },
+  {
+   "en": "Would you describe your sleep as poor sleep quality?",
+   "hi": "क्या आपकी नींद poor sleep quality है?"
+  },
+  {
+   "en": "Would you describe your sleep as regular sleep?",
+   "hi": "क्या आपकी नींद नियमित नींद है?"
+  },
+  {
+   "en": "Would you describe your stress level as high stress?",
+   "hi": "क्या आपका तनाव स्तर उच्च तनाव है?"
+  },
+  {
+   "en": "Would you describe your stress level as low stress?",
+   "hi": "क्या आपका तनाव स्तर निम्न तनाव है?"
+  },
+  {
+   "en": "Would you describe your stress level as moderate stress?",
+   "hi": "क्या आपका तनाव स्तर मध्यम तनाव है?"
+  },
+  {
+   "en": "Would you describe the severity of your symptoms as mild to moderate?",
+   "hi": "क्या आपके लक्षणों की तीव्रता हल्का से मध्यम है?"
+  },
+  {
+   "en": "Would you describe the severity of your symptoms as mild to severe?",
+   "hi": "क्या आपके लक्षणों की तीव्रता mild to severe है?"
+  },
+  {
+   "en": "Would you describe the severity of your symptoms as moderate?",
+   "hi": "क्या आपके लक्षणों की तीव्रता मध्यम है?"
+  },
+  {
+   "en": "Would you describe the severity of your symptoms as moderate to severe?",
+   "hi": "क्या आपके लक्षणों की तीव्रता मध्यम से गंभीर है?"
+  },
+  {
+   "en": "Would you describe the severity of your symptoms as severe?",
+   "hi": "क्या आपके लक्षणों की तीव्रता गंभीर है?"
+  },
+  {
+   "en": "Do you have abdominal cramps?",
+   "hi": "क्या आपको पेट में ऐंठन की समस्या है?"
+  },
+  {
+   "en": "Do you have abdominal pain?",
+   "hi": "क्या आपको पेट दर्द की समस्या है?"
+  },
+  {
+   "en": "Do you have abscesses?",
+   "hi": "क्या आपको abscesses की समस्या है?"
+  },
+  {
+   "en": "Do you have anxiety?",
+   "hi": "क्या आपको चिंता की समस्या है?"
+  },
+  {
+   "en": "Do you have back pain?",
+   "hi": "क्या आपको पीठ दर्द की समस्या है?"
+  },
+  {
+   "en": "Do you have balance problems?",
+   "hi": "क्या आपको balance problems की समस्या है?"
+  },
+  {
+   "en": "Do you have bleeding?",
+   "hi": "क्या आपको bleeding की समस्या है?"
+  },
+  {
+   "en": "Do you have bloating?",
+   "hi": "क्या आपको पेट फूलना की समस्या है?"
+  },
+  {
+   "en": "Do you have blood in stool?",
+   "hi": "क्या आपको blood in stool की समस्या है?"
+  },
+  {
+   "en": "Do you have blood in urine?",
+   "hi": "क्या आपको blood in urine की समस्या है?"
+  },
+  {
+   "en": "Do you have blurred vision?",
+   "hi": "क्या आपको धुंधली दृष्टि की समस्या है?"
+  },
+  {
+   "en": "Do you have body aches?",
+   "hi": "क्या आपको body aches की समस्या है?"
+  },
+  {
+   "en": "Do you have bone pain?",
+   "hi": "क्या आपको bone pain की समस्या है?"
+  },
+  {
+   "en": "Do you have breathing problems?",
+   "hi": "क्या आपको breathing problems की समस्या है?"
+  },
+  {
+   "en": "Do you have cataracts?",
+   "hi": "क्या आपको cataracts की समस्या है?"
+  },
+  {
+   "en": "Do you have chest pain?",
+   "hi": "क्या आपको सीने में दर्द की समस्या है?"
+  },
+  {
+   "en": "Do you have chills?",
+   "hi": "क्या आपको ठंड लगना की समस्या है?"
+  },
+  {
+   "en": "Do you have chronic cough?",
+   "hi": "क्या आपको chronic cough की समस्या है?"
+  },
+  {
+   "en": "Do you have chronic pain?",
+   "hi": "क्या आपको chronic pain की समस्या है?"
+  },
+  {
+   "en": "Do you have cold intolerance?",
+   "hi": "क्या आपको cold intolerance की समस्या है?"
+  },
+  {
+   "en": "Do you have confusion?",
+   "hi": "क्या आपको भ्रम की समस्या है?"
+  },
+  {
+   "en": "Do you have conjunctivitis?",
+   "hi": "क्या आपको conjunctivitis की समस्या है?"
+  },
+  {
+   "en": "Do you have constipation?",
+   "hi": "क्या आपको कब्ज की समस्या है?"
+  },
+  {
+   "en": "Do you have cough?",
+   "hi": "क्या आपको खाँसी की समस्या है?"
+  },
+  {
+   "en": "Do you have coughing?",
+   "hi": "क्या आपको coughing की समस्या है?"
+  },
+  {
+   "en": "Do you have dark urine?",
+   "hi": "क्या आपको dark urine की समस्या है?"
+  },
+  {
+   "en": "Do you have depression?",
+   "hi": "क्या आपको अवसाद की समस्या है?"
+  },
+  {
+   "en": "Do you have developmental delay?",
+   "hi": "क्या आपको developmental delay की समस्या है?"
+  },
+  {
+   "en": "Do you have developmental delays?",
+   "hi": "क्या आपको developmental delays की समस्या है?"
+  },
+  {
+   "en": "Do you have diarrhea?",
+   "hi": "क्या आपको दस्त की समस्या है?"
+  },
+  {
+   "en": "Do you have diarrhea or constipation?",
+   "hi": "क्या आपको diarrhea or constipation की समस्या है?"
+  },
+  {
+   "en": "Do you have difficulty breathing?",
+   "hi": "क्या आपको साँस लेने में कठिनाई की समस्या है?"
+  },
+  {
+   "en": "Do you have difficulty concentrating?",
+   "hi": "क्या आपको difficulty concentrating की समस्या है?"
+  },
+  {
+   "en": "Do you have difficulty moving?",
+   "hi": "क्या आपको difficulty moving की समस्या है?"
+  },
+  {
+   "en": "Do you have difficulty speaking?",
+   "hi": "क्या आपको difficulty speaking की समस्या है?"
+  },
+  {
+   "en": "Do you have difficulty swallowing?",
+   "hi": "क्या आपको difficulty swallowing की समस्या है?"
+  },
+  {
+   "en": "Do you have difficulty urinating?",
+   "hi": "क्या आपको difficulty urinating की समस्या है?"
+  },
+  {
+   "en": "Do you have difficulty walking?",
+   "hi": "क्या आपको difficulty walking की समस्या है?"
+  },
+  {
+   "en": "Do you have discharge?",
+   "hi": "क्या आपको discharge की समस्या है?"
+  },
+  {
+   "en": "Do you have discomfort after eating?",
+   "hi": "क्या आपको discomfort after eating की समस्या है?"
+  },
+  {
+   "en": "Do you have dizziness?",
+   "hi": "क्या आपको चक्कर आना की समस्या है?"
+  },
+  {
+   "en": "Do you have dry skin?",
+   "hi": "क्या आपको dry skin की समस्या है?"
+  },
+  {
+   "en": "Do you have easy bruising?",
+   "hi": "क्या आपको easy bruising की समस्या है?"
+  },
+  {
+   "en": "Do you have enlarged organs?",
+   "hi": "क्या आपको enlarged organs की समस्या है?"
+  },
+  {
+   "en": "Do you have excessive thirst?",
+   "hi": "क्या आपको excessive thirst की समस्या है?"
+  },
+  {
+   "en": "Do you have excessive worry?",
+   "hi": "क्या आपको excessive worry की समस्या है?"
+  },
+  {
+   "en": "Do you have eye pain?",
+   "hi": "क्या आपको eye pain की समस्या है?"
+  },
+  {
+   "en": "Do you have facial abnormalities?",
+   "hi": "क्या आपको facial abnormalities की समस्या है?"
+  },
+  {
+   "en": "Do you have facial pain?",
+   "hi": "क्या आपको facial pain की समस्या है?"
+  },
+  {
+   "en": "Do you have fatigue?",
+   "hi": "क्या आपको थकान की समस्या है?"
+  },
+  {
+   "en": "Do you have feet?",
+   "hi": "क्या आपको feet की समस्या है?"
+  },
+  {
+   "en": "Do you have fever?",
+   "hi": "क्या आपको बुखार की समस्या है?"
+  },
+  {
+   "en": "Do you have fractures?",
+   "hi": "क्या आपको fractures की समस्या है?"
+  },
+  {
+   "en": "Do you have fragile bones?",
+   "hi": "क्या आपको fragile bones की समस्या है?"
+  },
+  {
+   "en": "Do you have frequent infections?",
+   "hi": "क्या आपको frequent infections की समस्या है?"
+  },
+  {
+   "en": "Do you have frequent urge to urinate?",
+   "hi": "क्या आपको frequent urge to urinate की समस्या है?"
+  },
+  {
+   "en": "Do you have frequent urination?",
+   "hi": "क्या आपको बार-बार पेशाब आना की समस्या है?"
+  },
+  {
+   "en": "Do you have growth delay?",
+   "hi": "क्या आपको growth delay की समस्या है?"
+  },
+  {
+   "en": "Do you have hair loss?",
+   "hi": "क्या आपको बालों का झड़ना की समस्या है?"
+  },
+  {
+   "en": "Do you have headache?",
+   "hi": "क्या आपको सिरदर्द की समस्या है?"
+  },
+  {
+   "en": "Do you have headaches?",
+   "hi": "क्या आपको headaches की समस्या है?"
+  },
+  {
+   "en": "Do you have hearing loss?",
+   "hi": "क्या आपको hearing loss की समस्या है?"
+  },
+  {
+   "en": "Do you have heart defects?",
+   "hi": "क्या आपको heart defects की समस्या है?"
+  },
+  {
+   "en": "Do you have heartburn?",
+   "hi": "क्या आपको heartburn की समस्या है?"
+  },
+  {
+   "en": "Do you have height loss?",
+   "hi": "क्या आपको height loss की समस्या है?"
+  },
+  {
+   "en": "Do you have high blood pressure?",
+   "hi": "क्या आपको उच्च रक्तचाप की समस्या है?"
+  },
+  {
+   "en": "Do you have high cholesterol?",
+   "hi": "क्या आपको high cholesterol की समस्या है?"
+  },
+  {
+   "en": "Do you have high fever?",
+   "hi": "क्या आपको high fever की समस्या है?"
+  },
+  {
+   "en": "Do you have high temperature?",
+   "hi": "क्या आपको high temperature की समस्या है?"
+  },
+  {
+   "en": "Do you have increased thirst?",
+   "hi": "क्या आपको increased thirst की समस्या है?"
+  },
+  {
+   "en": "Do you have indigestion?",
+   "hi": "क्या आपको अपच की समस्या है?"
+  },
+  {
+   "en": "Do you have intellectual disability?",
+   "hi": "क्या आपको intellectual disability की समस्या है?"
+  },
+  {
+   "en": "Do you have irregular heartbeat?",
+   "hi": "क्या आपको irregular heartbeat की समस्या है?"
+  },
+  {
+   "en": "Do you have irregular periods?",
+   "hi": "क्या आपको irregular periods की समस्या है?"
+  },
+  {
+   "en": "Do you have irritability?",
+   "hi": "क्या आपको irritability की समस्या है?"
+  },
+  {
+   "en": "Do you have itching?",
+   "hi": "क्या आपको खुजली की समस्या है?"
+  },
+  {
+   "en": "Do you have itchy skin?",
+   "hi": "क्या आपको itchy skin की समस्या है?"
+  },
+  {
+   "en": "Do you have jaundice?",
+   "hi": "क्या आपको पीलिया की समस्या है?"
+  },
+  {
+   "en": "Do you have joint pain?",
+   "hi": "क्या आपको जोड़ों का दर्द की समस्या है?"
+  },
+  {
+   "en": "Do you have kidney issues?",
+   "hi": "क्या आपको kidney issues की समस्या है?"
+  },
+  {
+   "en": "Do you have kidney stones?",
+   "hi": "क्या आपको kidney stones की समस्या है?"
+  },
+  {
+   "en": "Do you have lethargy?",
+   "hi": "क्या आपको lethargy की समस्या है?"
+  },
+  {
+   "en": "Do you have liver enlargement?",
+   "hi": "क्या आपको liver enlargement की समस्या है?"
+  },
+  {
+   "en": "Do you have loss of appetite?",
+   "hi": "क्या आपको loss of appetite की समस्या है?"
+  },
+  {
+   "en": "Do you have loss of consciousness?",
+   "hi": "क्या आपको loss of consciousness की समस्या है?"
+  },
+  {
+   "en": "Do you have loss of motor skills?",
+   "hi": "क्या आपको loss of motor skills की समस्या है?"
+  },
+  {
+   "en": "Do you have loud snoring?",
+   "hi": "क्या आपको loud snoring की समस्या है?"
+  },
+  {
+   "en": "Do you have low blood pressure?",
+   "hi": "क्या आपको low blood pressure की समस्या है?"
+  },
+  {
+   "en": "Do you have lung infections?",
+   "hi": "क्या आपको lung infections की समस्या है?"
+  },
+  {
+   "en": "Do you have memory loss?",
+   "hi": "क्या आपको memory loss की समस्या है?"
+  },
+  {
+   "en": "Do you have mood swings?",
+   "hi": "क्या आपको mood swings की समस्या है?"
+  },
+  {
+   "en": "Do you have mouth sores?",
+   "hi": "क्या आपको mouth sores की समस्या है?"
+  },
+  {
+   "en": "Do you have muscle aches?",
+   "hi": "क्या आपको muscle aches की समस्या है?"
+  },
+  {
+   "en": "Do you have muscle pain?",
+   "hi": "क्या आपको मांसपेशियों में दर्द की समस्या है?"
+  },
+  {
+   "en": "Do you have muscle rigidity?",
+   "hi": "क्या आपको muscle rigidity की समस्या है?"
+  },
+  {
+   "en": "Do you have muscle stiffness?",
+   "hi": "क्या आपको muscle stiffness की समस्या है?"
+  },
+  {
+   "en": "Do you have muscle weakness?",
+   "hi": "क्या आपको मांसपेशियों की कमजोरी की समस्या है?"
+  },
+  {
+   "en": "Do you have nasal congestion?",
+   "hi": "क्या आपको nasal congestion की समस्या है?"
+  },
+  {
+   "en": "Do you have nausea?",
+   "hi": "क्या आपको जी मिचलाना की समस्या है?"
+  },
+  {
+   "en": "Do you have nerve damage?",
+   "hi": "क्या आपको nerve damage की समस्या है?"
+  },
+  {
+   "en": "Do you have nervousness?",
+   "hi": "क्या आपको nervousness की समस्या है?"
+  },
+  {
+   "en": "Do you have neurological issues?",
+   "hi": "क्या आपको neurological issues की समस्या है?"
+  },
+  {
+   "en": "Do you have night sweats?",
+   "hi": "क्या आपको night sweats की समस्या है?"
+  },
+  {
+   "en": "Do you have numbness?",
+   "hi": "क्या आपको numbness की समस्या है?"
+  },
+  {
+   "en": "Do you have pain?",
+   "hi": "क्या आपको pain की समस्या है?"
+  },
+  {
+   "en": "Do you have painful urination?",
+   "hi": "क्या आपको painful urination की समस्या है?"
+  },
+  {
+   "en": "Do you have pale skin?",
+   "hi": "क्या आपको pale skin की समस्या है?"
+  },
+  {
+   "en": "Do you have paralysis?",
+   "hi": "क्या आपको paralysis की समस्या है?"
+  },
+  {
+   "en": "Do you have pelvic pain?",
+   "hi": "क्या आपको pelvic pain की समस्या है?"
+  },
+  {
+   "en": "Do you have persistent cough?",
+   "hi": "क्या आपको persistent cough की समस्या है?"
+  },
+  {
+   "en": "Do you have photosensitivity?",
+   "hi": "क्या आपको photosensitivity की समस्या है?"
+  },
+  {
+   "en": "Do you have poor feeding?",
+   "hi": "क्या आपको poor feeding की समस्या है?"
+  },
+  {
+   "en": "Do you have poor growth?",
+   "hi": "क्या आपको poor growth की समस्या है?"
+  },
+  {
+   "en": "Do you have psychiatric symptoms?",
+   "hi": "क्या आपको psychiatric symptoms की समस्या है?"
+  },
+  {
+   "en": "Do you have rapid heartbeat?",
+   "hi": "क्या आपको rapid heartbeat की समस्या है?"
+  },
+  {
+   "en": "Do you have rash?",
+   "hi": "क्या आपको चकत्ते की समस्या है?"
+  },
+  {
+   "en": "Do you have red?",
+   "hi": "क्या आपको red की समस्या है?"
+  },
+  {
+   "en": "Do you have red eyes?",
+   "hi": "क्या आपको red eyes की समस्या है?"
+  },
+  {
+   "en": "Do you have redness?",
+   "hi": "क्या आपको redness की समस्या है?"
+  },
+  {
+   "en": "Do you have restlessness?",
+   "hi": "क्या आपको restlessness की समस्या है?"
+  },
+  {
+   "en": "Do you have runny nose?",
+   "hi": "क्या आपको नाक बहना की समस्या है?"
+  },
+  {
+   "en": "Do you have scales?",
+   "hi": "क्या आपको scales की समस्या है?"
+  },
+  {
+   "en": "Do you have seizures?",
+   "hi": "क्या आपको दौरे की समस्या है?"
+  },
+  {
+   "en": "Do you have severe headache?",
+   "hi": "क्या आपको severe headache की समस्या है?"
+  },
+  {
+   "en": "Do you have short stature?",
+   "hi": "क्या आपको short stature की समस्या है?"
+  },
+  {
+   "en": "Do you have shortness of breath?",
+   "hi": "क्या आपको साँस फूलना की समस्या है?"
+  },
+  {
+   "en": "Do you have skeletal deformities?",
+   "hi": "क्या आपको skeletal deformities की समस्या है?"
+  },
+  {
+   "en": "Do you have skin changes?",
+   "hi": "क्या आपको skin changes की समस्या है?"
+  },
+  {
+   "en": "Do you have skin lesions?",
+   "hi": "क्या आपको skin lesions की समस्या है?"
+  },
+  {
+   "en": "Do you have skin rash?",
+   "hi": "क्या आपको skin rash की समस्या है?"
+  },
+  {
+   "en": "Do you have skin rashes?",
+   "hi": "क्या आपको skin rashes की समस्या है?"
+  },
+  {
+   "en": "Do you have skin ulcers?",
+   "hi": "क्या आपको skin ulcers की समस्या है?"
+  },
+  {
+   "en": "Do you have sleep disturbances?",
+   "hi": "क्या आपको sleep disturbances की समस्या है?"
+  },
+  {
+   "en": "Do you have slow movement?",
+   "hi": "क्या आपको slow movement की समस्या है?"
+  },
+  {
+   "en": "Do you have sneezing?",
+   "hi": "क्या आपको छींक आना की समस्या है?"
+  },
+  {
+   "en": "Do you have sore throat?",
+   "hi": "क्या आपको गले में खराश की समस्या है?"
+  },
+  {
+   "en": "Do you have speech problems?",
+   "hi": "क्या आपको speech problems की समस्या है?"
+  },
+  {
+   "en": "Do you have stiff neck?",
+   "hi": "क्या आपको stiff neck की समस्या है?"
+  },
+  {
+   "en": "Do you have stiffness?",
+   "hi": "क्या आपको stiffness की समस्या है?"
+  },
+  {
+   "en": "Do you have sudden numbness?",
+   "hi": "क्या आपको sudden numbness की समस्या है?"
+  },
+  {
+   "en": "Do you have sweating?",
+   "hi": "क्या आपको sweating की समस्या है?"
+  },
+  {
+   "en": "Do you have swelling?",
+   "hi": "क्या आपको सूजन की समस्या है?"
+  },
+  {
+   "en": "Do you have swelling in legs?",
+   "hi": "क्या आपको swelling in legs की समस्या है?"
+  },
+  {
+   "en": "Do you have swollen lymph nodes?",
+   "hi": "क्या आपको swollen lymph nodes की समस्या है?"
+  },
+  {
+   "en": "Do you have thickened skin?",
+   "hi": "क्या आपको thickened skin की समस्या है?"
+  },
+  {
+   "en": "Do you have tingling?",
+   "hi": "क्या आपको tingling की समस्या है?"
+  },
+  {
+   "en": "Do you have tremors?",
+   "hi": "क्या आपको tremors की समस्या है?"
+  },
+  {
+   "en": "Do you have unexplained weight loss?",
+   "hi": "क्या आपको unexplained weight loss की समस्या है?"
+  },
+  {
+   "en": "Do you have upper abdominal pain?",
+   "hi": "क्या आपको upper abdominal pain की समस्या है?"
+  },
+  {
+   "en": "Do you have vision issues?",
+   "hi": "क्या आपको vision issues की समस्या है?"
+  },
+  {
+   "en": "Do you have vision loss?",
+   "hi": "क्या आपको vision loss की समस्या है?"
+  },
+  {
+   "en": "Do you have vision problems?",
+   "hi": "क्या आपको vision problems की समस्या है?"
+  },
+  {
+   "en": "Do you have vomiting?",
+   "hi": "क्या आपको उल्टी की समस्या है?"
+  },
+  {
+   "en": "Do you have weakness?",
+   "hi": "क्या आपको weakness की समस्या है?"
+  },
+  {
+   "en": "Do you have weight gain?",
+   "hi": "क्या आपको वजन बढ़ना की समस्या है?"
+  },
+  {
+   "en": "Do you have weight loss?",
+   "hi": "क्या आपको वजन घटना की समस्या है?"
+  },
+  {
+   "en": "Do you have wheezing?",
+   "hi": "क्या आपको wheezing की समस्या है?"
+  }
+ ]
+}

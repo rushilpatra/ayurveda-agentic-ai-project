@@ -1,0 +1,699 @@
+{
+  "n_mapped_terms": 91,
+  "by_confidence": {
+    "exact": 12,
+    "close": 41,
+    "approximate": 26,
+    "broad": 7,
+    "unmappable": 5
+  },
+  "total_herb_indication_edges": 1738,
+  "edges_unlocked": 1541,
+  "edge_coverage": 0.8867,
+  "unmapped_terms_with_3plus_herbs": [
+    [
+      "vata vyadhi",
+      44
+    ],
+    [
+      "vatavyadhi",
+      4
+    ],
+    [
+      "kaphaja roga",
+      3
+    ],
+    [
+      "kapha roga",
+      3
+    ],
+    [
+      "pitta roga",
+      3
+    ]
+  ],
+  "targets_not_in_ayurgenix": [
+    "udararoga -> ascites"
+  ],
+  "expert_reviewed": false,
+  "mapping": {
+    "adhmana": {
+      "english": [
+        "digestive disorders"
+      ],
+      "confidence": "close",
+      "gloss": "flatulence / distension"
+    },
+    "agnimandya": {
+      "english": [
+        "indigestion",
+        "digestive disorders"
+      ],
+      "confidence": "close",
+      "gloss": "low digestive fire"
+    },
+    "ajeerna": {
+      "english": [
+        "indigestion"
+      ],
+      "confidence": "exact",
+      "gloss": "indigestion"
+    },
+    "amavata": {
+      "english": [
+        "rheumatoid arthritis"
+      ],
+      "confidence": "close",
+      "gloss": "rheumatoid arthritis"
+    },
+    "anaha": {
+      "english": [
+        "constipation"
+      ],
+      "confidence": "close",
+      "gloss": "distension with constipation"
+    },
+    "anidra": {
+      "english": [
+        "insomnia"
+      ],
+      "confidence": "exact",
+      "gloss": "insomnia"
+    },
+    "apachi": {
+      "english": [
+        "lymphadenopathy"
+      ],
+      "confidence": "close",
+      "gloss": "cervical lymphadenitis"
+    },
+    "apasmara": {
+      "english": [
+        "epilepsy"
+      ],
+      "confidence": "exact",
+      "gloss": "epilepsy"
+    },
+    "arsha": {
+      "english": [
+        "hidradenitis suppurativa"
+      ],
+      "confidence": "approximate",
+      "gloss": "haemorrhoids"
+    },
+    "aruchi": {
+      "english": [
+        "indigestion"
+      ],
+      "confidence": "approximate",
+      "gloss": "anorexia / distaste for food"
+    },
+    "ashmari": {
+      "english": [
+        "kidney stones",
+        "gallstones"
+      ],
+      "confidence": "close",
+      "gloss": "calculi"
+    },
+    "atisara": {
+      "english": [
+        "gastroenteritis"
+      ],
+      "confidence": "close",
+      "gloss": "diarrhoea"
+    },
+    "bhagna": {
+      "english": [
+        "spinal cord injury"
+      ],
+      "confidence": "approximate",
+      "gloss": "fracture"
+    },
+    "bhrama": {
+      "english": [
+        "meniere s disease"
+      ],
+      "confidence": "approximate",
+      "gloss": "vertigo / dizziness"
+    },
+    "chardi": {
+      "english": [
+        "gastroenteritis"
+      ],
+      "confidence": "approximate",
+      "gloss": "vomiting"
+    },
+    "chhardi": {
+      "english": [
+        "gastroenteritis"
+      ],
+      "confidence": "approximate",
+      "gloss": "vomiting"
+    },
+    "dadru": {
+      "english": [
+        "skin infections"
+      ],
+      "confidence": "close",
+      "gloss": "ringworm / tinea"
+    },
+    "daha": {
+      "english": [
+        "acidity"
+      ],
+      "confidence": "approximate",
+      "gloss": "burning sensation"
+    },
+    "dantaroga": {
+      "english": [
+        "gingivitis"
+      ],
+      "confidence": "close",
+      "gloss": "dental disease"
+    },
+    "daurbalya": {
+      "english": [
+        "chronic fatigue syndrome"
+      ],
+      "confidence": "close",
+      "gloss": "debility / weakness"
+    },
+    "gandamala": {
+      "english": [
+        "goiter",
+        "lymphadenopathy"
+      ],
+      "confidence": "close",
+      "gloss": "cervical lymphadenopathy"
+    },
+    "grahani": {
+      "english": [
+        "irritable bowel syndrome ibs",
+        "celiac disease"
+      ],
+      "confidence": "close",
+      "gloss": "malabsorption syndrome"
+    },
+    "granthi": {
+      "english": [
+        "brain tumors"
+      ],
+      "confidence": "approximate",
+      "gloss": "cyst / benign tumour"
+    },
+    "gridhrasi": {
+      "english": [
+        "sciatica"
+      ],
+      "confidence": "exact",
+      "gloss": "sciatica"
+    },
+    "gulma": {
+      "english": [
+        "irritable bowel syndrome ibs"
+      ],
+      "confidence": "approximate",
+      "gloss": "abdominal mass"
+    },
+    "hikka": {
+      "english": [
+        "gastroesophageal reflux disease gerd"
+      ],
+      "confidence": "approximate",
+      "gloss": "hiccups"
+    },
+    "hridroga": {
+      "english": [
+        "heart disease",
+        "coronary artery disease",
+        "angina"
+      ],
+      "confidence": "close",
+      "gloss": "heart disease"
+    },
+    "jwara": {
+      "english": [
+        "fever",
+        "dengue fever",
+        "relapsing fever"
+      ],
+      "confidence": "exact",
+      "gloss": "fever"
+    },
+    "kamala": {
+      "english": [
+        "hepatitis",
+        "liver disorders"
+      ],
+      "confidence": "close",
+      "gloss": "jaundice"
+    },
+    "kandu": {
+      "english": [
+        "skin allergy",
+        "atopic dermatitis"
+      ],
+      "confidence": "close",
+      "gloss": "pruritus"
+    },
+    "kantharoga": {
+      "english": [
+        "strep throat"
+      ],
+      "confidence": "close",
+      "gloss": "throat disease"
+    },
+    "kapha roga": {
+      "english": [],
+      "confidence": "unmappable",
+      "gloss": "class of kapha disorders"
+    },
+    "kaphaja roga": {
+      "english": [],
+      "confidence": "unmappable",
+      "gloss": "class of kapha disorders"
+    },
+    "karshya": {
+      "english": [
+        "weight loss"
+      ],
+      "confidence": "close",
+      "gloss": "emaciation"
+    },
+    "kasa": {
+      "english": [
+        "cough"
+      ],
+      "confidence": "exact",
+      "gloss": "cough"
+    },
+    "khalitya": {
+      "english": [
+        "hair loss",
+        "alopecia"
+      ],
+      "confidence": "exact",
+      "gloss": "alopecia"
+    },
+    "klaibya": {
+      "english": [
+        "erectile dysfunction",
+        "sexual dysfunction"
+      ],
+      "confidence": "close",
+      "gloss": "erectile dysfunction"
+    },
+    "krimi": {
+      "english": [
+        "worm infections",
+        "ascariasis"
+      ],
+      "confidence": "close",
+      "gloss": "worms / parasites"
+    },
+    "krimi vyadhi": {
+      "english": [
+        "worm infections"
+      ],
+      "confidence": "close",
+      "gloss": "parasitic disease"
+    },
+    "krimiroga": {
+      "english": [
+        "worm infections"
+      ],
+      "confidence": "close",
+      "gloss": "parasitic disease"
+    },
+    "kshata": {
+      "english": [
+        "spinal cord injury"
+      ],
+      "confidence": "approximate",
+      "gloss": "injury / trauma"
+    },
+    "kshata kshaya": {
+      "english": [
+        "tuberculosis"
+      ],
+      "confidence": "approximate",
+      "gloss": "phthisis with wasting"
+    },
+    "kshaya": {
+      "english": [
+        "tuberculosis",
+        "weight loss"
+      ],
+      "confidence": "close",
+      "gloss": "wasting / consumption"
+    },
+    "kushta": {
+      "english": [
+        "skin diseases",
+        "psoriasis",
+        "leprosy",
+        "eczema atopic dermatitis"
+      ],
+      "confidence": "broad",
+      "gloss": "class of skin diseases incl. leprosy"
+    },
+    "mada": {
+      "english": [
+        "ciguatera poisoning"
+      ],
+      "confidence": "approximate",
+      "gloss": "intoxication"
+    },
+    "malabaddhata": {
+      "english": [
+        "constipation"
+      ],
+      "confidence": "exact",
+      "gloss": "constipation"
+    },
+    "medoroga": {
+      "english": [
+        "obesity",
+        "weight gain"
+      ],
+      "confidence": "close",
+      "gloss": "obesity / lipid disorder"
+    },
+    "mukhapaka": {
+      "english": [
+        "gingivitis"
+      ],
+      "confidence": "close",
+      "gloss": "stomatitis / mouth ulcers"
+    },
+    "mukharoga": {
+      "english": [
+        "gingivitis"
+      ],
+      "confidence": "broad",
+      "gloss": "oral diseases"
+    },
+    "mutraghata": {
+      "english": [
+        "hydronephrosis"
+      ],
+      "confidence": "approximate",
+      "gloss": "urinary obstruction"
+    },
+    "mutrakrichha": {
+      "english": [
+        "urinary tract infection uti",
+        "cystitis"
+      ],
+      "confidence": "close",
+      "gloss": "dysuria"
+    },
+    "netraroga": {
+      "english": [
+        "conjunctivitis",
+        "glaucoma"
+      ],
+      "confidence": "broad",
+      "gloss": "eye diseases"
+    },
+    "ojo kshaya": {
+      "english": [
+        "hiv aids"
+      ],
+      "confidence": "approximate",
+      "gloss": "loss of ojas / immunodeficiency"
+    },
+    "pakshaghata": {
+      "english": [
+        "stroke",
+        "bell s palsy"
+      ],
+      "confidence": "close",
+      "gloss": "hemiplegia / paralysis"
+    },
+    "pandu": {
+      "english": [
+        "anemia"
+      ],
+      "confidence": "exact",
+      "gloss": "anaemia / pallor"
+    },
+    "pinasa": {
+      "english": [
+        "chronic sinusitis",
+        "sinusitis"
+      ],
+      "confidence": "close",
+      "gloss": "chronic rhinitis"
+    },
+    "pitta roga": {
+      "english": [],
+      "confidence": "unmappable",
+      "gloss": "class of pitta disorders"
+    },
+    "pliharoga": {
+      "english": [
+        "lymphadenopathy"
+      ],
+      "confidence": "approximate",
+      "gloss": "splenic disorder"
+    },
+    "pradara": {
+      "english": [
+        "menstrual disorders"
+      ],
+      "confidence": "close",
+      "gloss": "menorrhagia / leucorrhoea"
+    },
+    "prameha": {
+      "english": [
+        "diabetes",
+        "diabetes mellitus"
+      ],
+      "confidence": "broad",
+      "gloss": "urinary disorders; madhumeha ≈ diabetes"
+    },
+    "pratishyaya": {
+      "english": [
+        "common cold",
+        "cold"
+      ],
+      "confidence": "exact",
+      "gloss": "coryza / common cold"
+    },
+    "pravahika": {
+      "english": [
+        "amebiasis"
+      ],
+      "confidence": "close",
+      "gloss": "dysentery"
+    },
+    "raktadosha": {
+      "english": [
+        "skin diseases"
+      ],
+      "confidence": "approximate",
+      "gloss": "vitiated blood"
+    },
+    "raktapitta": {
+      "english": [
+        "hemophilia"
+      ],
+      "confidence": "approximate",
+      "gloss": "bleeding disorders"
+    },
+    "sandhishoola": {
+      "english": [
+        "joint pain",
+        "arthritis"
+      ],
+      "confidence": "exact",
+      "gloss": "joint pain"
+    },
+    "sandhivata": {
+      "english": [
+        "osteoarthritis"
+      ],
+      "confidence": "close",
+      "gloss": "osteoarthritis"
+    },
+    "shirashoola": {
+      "english": [
+        "migraine"
+      ],
+      "confidence": "close",
+      "gloss": "headache"
+    },
+    "shiroroga": {
+      "english": [
+        "migraine"
+      ],
+      "confidence": "broad",
+      "gloss": "diseases of the head"
+    },
+    "shoola": {
+      "english": [
+        "peptic ulcers"
+      ],
+      "confidence": "approximate",
+      "gloss": "colic pain"
+    },
+    "shotha": {
+      "english": [
+        "inflammation"
+      ],
+      "confidence": "close",
+      "gloss": "oedema / swelling"
+    },
+    "shrama": {
+      "english": [
+        "chronic fatigue syndrome"
+      ],
+      "confidence": "close",
+      "gloss": "fatigue"
+    },
+    "shwasa": {
+      "english": [
+        "asthma",
+        "respiratory issues"
+      ],
+      "confidence": "close",
+      "gloss": "dyspnoea / asthma"
+    },
+    "smritidaurbalya": {
+      "english": [
+        "dementia",
+        "alzheimer s disease"
+      ],
+      "confidence": "close",
+      "gloss": "memory loss"
+    },
+    "stanya kshaya": {
+      "english": [
+        "menopause"
+      ],
+      "confidence": "approximate",
+      "gloss": "deficient lactation"
+    },
+    "trishna": {
+      "english": [
+        "diabetes"
+      ],
+      "confidence": "approximate",
+      "gloss": "excessive thirst"
+    },
+    "udara shoola": {
+      "english": [
+        "peptic ulcers"
+      ],
+      "confidence": "approximate",
+      "gloss": "abdominal pain"
+    },
+    "udararoga": {
+      "english": [
+        "liver cirrhosis",
+        "ascites"
+      ],
+      "confidence": "broad",
+      "gloss": "abdominal diseases"
+    },
+    "unmada": {
+      "english": [
+        "bipolar disorder",
+        "mental health disorders"
+      ],
+      "confidence": "approximate",
+      "gloss": "psychosis / insanity"
+    },
+    "urakshata": {
+      "english": [
+        "tuberculosis"
+      ],
+      "confidence": "approximate",
+      "gloss": "chest injury / phthisis"
+    },
+    "vata vyadhi": {
+      "english": [],
+      "confidence": "unmappable",
+      "gloss": "class of vata disorders (neuro/musculoskeletal)"
+    },
+    "vatarakta": {
+      "english": [
+        "gout"
+      ],
+      "confidence": "close",
+      "gloss": "gout"
+    },
+    "vatavyadhi": {
+      "english": [],
+      "confidence": "unmappable",
+      "gloss": "class of vata disorders"
+    },
+    "vibandha": {
+      "english": [
+        "constipation"
+      ],
+      "confidence": "exact",
+      "gloss": "constipation"
+    },
+    "vidradhi": {
+      "english": [
+        "skin infections"
+      ],
+      "confidence": "approximate",
+      "gloss": "abscess"
+    },
+    "visarpa": {
+      "english": [
+        "herpes simplex virus hsv"
+      ],
+      "confidence": "approximate",
+      "gloss": "erysipelas / herpes"
+    },
+    "visha": {
+      "english": [
+        "ciguatera poisoning"
+      ],
+      "confidence": "close",
+      "gloss": "poisoning / toxicity"
+    },
+    "vrana": {
+      "english": [
+        "skin infections",
+        "buruli ulcer"
+      ],
+      "confidence": "close",
+      "gloss": "wound / ulcer"
+    },
+    "vranashotha": {
+      "english": [
+        "inflammation"
+      ],
+      "confidence": "close",
+      "gloss": "inflamed wound"
+    },
+    "yakrit roga": {
+      "english": [
+        "liver disorders",
+        "hepatitis"
+      ],
+      "confidence": "close",
+      "gloss": "liver disease"
+    },
+    "yakrit vikara": {
+      "english": [
+        "liver disorders"
+      ],
+      "confidence": "close",
+      "gloss": "liver disorder"
+    },
+    "yonidosha": {
+      "english": [
+        "menstrual disorders"
+      ],
+      "confidence": "broad",
+      "gloss": "vaginal / gynaecological"
+    }
+  }
+}

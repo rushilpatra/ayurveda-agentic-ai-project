@@ -1,0 +1,171 @@
+{
+  "tag": "misspec",
+  "config": {
+    "n_cases": 200,
+    "max_cost": 15.0,
+    "env_noise": 0.15,
+    "assumed_noise": 0.05,
+    "omission": 0.25
+  },
+  "action_space": {
+    "n_actions": 2319,
+    "by_kind": {
+      "ask_patient": 977,
+      "query_kg": 15,
+      "retrieve_text": 977,
+      "verify_herb": 350
+    },
+    "costs": {
+      "ask_patient": 1.0,
+      "query_kg": 0.1,
+      "retrieve_text": 0.3,
+      "verify_herb": 0.4
+    },
+    "channel_noise": {
+      "ask_patient": 0.05,
+      "query_kg": 0.02,
+      "retrieve_text": 0.25,
+      "verify_herb": 0.1
+    },
+    "n_herbs_usable": 350
+  },
+  "results": [
+    {
+      "agent": "T1-tool-eig-per-cost",
+      "n": 200,
+      "accuracy": 0.435,
+      "mean_cost": 14.941,
+      "mean_actions": 23.89,
+      "mean_patient_questions": 13.19,
+      "accuracy_per_cost": 0.0291,
+      "ece": 0.2415,
+      "aurc": 0.2424,
+      "tool_mix": {
+        "query_kg": 0.336,
+        "ask_patient": 0.552,
+        "verify_herb": 0.062,
+        "retrieve_text": 0.05
+      },
+      "evidence_per_case": 20.73
+    },
+    {
+      "agent": "T2-tool-eig-lagrangian",
+      "n": 200,
+      "accuracy": 0.395,
+      "mean_cost": 14.915,
+      "mean_actions": 27.54,
+      "mean_patient_questions": 12.35,
+      "accuracy_per_cost": 0.0265,
+      "ece": 0.1922,
+      "aurc": 0.285,
+      "tool_mix": {
+        "query_kg": 0.366,
+        "ask_patient": 0.448,
+        "retrieve_text": 0.176,
+        "verify_herb": 0.009
+      },
+      "evidence_per_case": 24.57
+    },
+    {
+      "agent": "T3-patient-only",
+      "n": 200,
+      "accuracy": 0.285,
+      "mean_cost": 15.0,
+      "mean_actions": 15.0,
+      "mean_patient_questions": 15.0,
+      "accuracy_per_cost": 0.019,
+      "ece": 0.1732,
+      "aurc": 0.4054,
+      "tool_mix": {
+        "ask_patient": 1.0
+      },
+      "evidence_per_case": 11.25
+    },
+    {
+      "agent": "T4-cheapest-first",
+      "n": 200,
+      "accuracy": 0.065,
+      "mean_cost": 14.7,
+      "mean_actions": 59.0,
+      "mean_patient_questions": 0.0,
+      "accuracy_per_cost": 0.0044,
+      "ece": 0.1971,
+      "aurc": 0.8709,
+      "tool_mix": {
+        "query_kg": 0.254,
+        "retrieve_text": 0.746
+      },
+      "evidence_per_case": 59.0
+    },
+    {
+      "agent": "T5-random-tool",
+      "n": 200,
+      "accuracy": 0.035,
+      "mean_cost": 14.94,
+      "mean_actions": 25.27,
+      "mean_patient_questions": 10.1,
+      "accuracy_per_cost": 0.0023,
+      "ece": 0.0805,
+      "aurc": 0.9074,
+      "tool_mix": {
+        "ask_patient": 0.399,
+        "retrieve_text": 0.432,
+        "verify_herb": 0.151,
+        "query_kg": 0.018
+      },
+      "evidence_per_case": 22.7
+    }
+  ],
+  "comparisons": [
+    {
+      "agent": "T2-tool-eig-lagrangian",
+      "delta_accuracy": 0.04,
+      "ci95": [
+        -0.015,
+        0.095
+      ],
+      "p_mcnemar": 0.20048842206597328,
+      "p_holm": 0.200488,
+      "significant": false
+    },
+    {
+      "agent": "T3-patient-only",
+      "delta_accuracy": 0.15,
+      "ci95": [
+        0.07,
+        0.23
+      ],
+      "p_mcnemar": 0.0005349642016498918,
+      "p_holm": 0.00107,
+      "significant": true
+    },
+    {
+      "agent": "T4-cheapest-first",
+      "delta_accuracy": 0.37,
+      "ci95": [
+        0.3,
+        0.44
+      ],
+      "p_mcnemar": 2.039496518310745e-20,
+      "p_holm": 0.0,
+      "significant": true
+    },
+    {
+      "agent": "T5-random-tool",
+      "delta_accuracy": 0.4,
+      "ci95": [
+        0.33,
+        0.47
+      ],
+      "p_mcnemar": 3.432799542095065e-23,
+      "p_holm": 0.0,
+      "significant": true
+    }
+  ],
+  "tool_selection_agreement_vs_oracle": {
+    "T1-tool-eig-per-cost": 0.7433,
+    "T4-cheapest-first": 0.226
+  },
+  "elapsed_seconds": 475.4,
+  "trajectories": "results/checkpoints/tools_misspec_trajectories.jsonl"
+}

@@ -1,0 +1,303 @@
+{
+  "config": {
+    "n": 150,
+    "budgets": [
+      10,
+      15,
+      20
+    ],
+    "noise": 0.05,
+    "omission": 0.1,
+    "exclusive": false
+  },
+  "features_with_multiple_sources": 977,
+  "features_total": 977,
+  "rows": [
+    {
+      "budget": 10,
+      "strategy": "eig-source",
+      "accuracy": 0.6267,
+      "tool_mix": {
+        "ask_patient": 0.57,
+        "query_kg": 0.43
+      }
+    },
+    {
+      "budget": 10,
+      "strategy": "decoupled-eig",
+      "accuracy": 0.5267,
+      "tool_mix": {
+        "ask_patient": 0.65,
+        "query_kg": 0.29,
+        "retrieve_text": 0.06
+      },
+      "delta_vs_eig": 0.1,
+      "ci95": [
+        0.02,
+        0.18
+      ],
+      "p_mcnemar": 0.020073851919732988,
+      "significant": true
+    },
+    {
+      "budget": 10,
+      "strategy": "random-source",
+      "accuracy": 0.2867,
+      "tool_mix": {
+        "ask_patient": 0.42,
+        "query_kg": 0.15,
+        "retrieve_text": 0.43
+      },
+      "delta_vs_eig": 0.34,
+      "ci95": [
+        0.2533,
+        0.4267
+      ],
+      "p_mcnemar": 1.6395687108330947e-11,
+      "significant": true
+    },
+    {
+      "budget": 10,
+      "strategy": "fixed-patient",
+      "accuracy": 0.5867,
+      "tool_mix": {
+        "ask_patient": 0.97,
+        "query_kg": 0.03
+      },
+      "delta_vs_eig": 0.04,
+      "ci95": [
+        -0.04,
+        0.1133
+      ],
+      "p_mcnemar": 0.40503224614076316,
+      "significant": false
+    },
+    {
+      "budget": 10,
+      "strategy": "fixed-cheapest",
+      "accuracy": 0.2067,
+      "tool_mix": {
+        "query_kg": 0.42,
+        "retrieve_text": 0.58
+      },
+      "delta_vs_eig": 0.42,
+      "ci95": [
+        0.34,
+        0.5
+      ],
+      "p_mcnemar": 3.577867169202165e-18,
+      "significant": true
+    },
+    {
+      "budget": 10,
+      "strategy": "worst-source",
+      "accuracy": 0.0933,
+      "tool_mix": {
+        "retrieve_text": 1.0
+      },
+      "delta_vs_eig": 0.5333,
+      "ci95": [
+        0.4467,
+        0.62
+      ],
+      "p_mcnemar": 1.5803951224724757e-20,
+      "significant": true
+    },
+    {
+      "budget": 15,
+      "strategy": "eig-source",
+      "accuracy": 0.7933,
+      "tool_mix": {
+        "ask_patient": 0.7,
+        "query_kg": 0.3
+      }
+    },
+    {
+      "budget": 15,
+      "strategy": "decoupled-eig",
+      "accuracy": 0.7733,
+      "tool_mix": {
+        "ask_patient": 0.72,
+        "query_kg": 0.21,
+        "retrieve_text": 0.07,
+        "verify_herb": 0.0
+      },
+      "delta_vs_eig": 0.02,
+      "ci95": [
+        -0.04,
+        0.08
+      ],
+      "p_mcnemar": 0.6636238098144531,
+      "significant": false
+    },
+    {
+      "budget": 15,
+      "strategy": "random-source",
+      "accuracy": 0.5267,
+      "tool_mix": {
+        "ask_patient": 0.44,
+        "query_kg": 0.11,
+        "retrieve_text": 0.45
+      },
+      "delta_vs_eig": 0.2667,
+      "ci95": [
+        0.18,
+        0.3533
+      ],
+      "p_mcnemar": 1.0325821975243343e-08,
+      "significant": true
+    },
+    {
+      "budget": 15,
+      "strategy": "fixed-patient",
+      "accuracy": 0.8333,
+      "tool_mix": {
+        "ask_patient": 0.98,
+        "query_kg": 0.02
+      },
+      "delta_vs_eig": -0.04,
+      "ci95": [
+        -0.0933,
+        0.0133
+      ],
+      "p_mcnemar": 0.210113525390625,
+      "significant": false
+    },
+    {
+      "budget": 15,
+      "strategy": "fixed-cheapest",
+      "accuracy": 0.3533,
+      "tool_mix": {
+        "query_kg": 0.29,
+        "retrieve_text": 0.71
+      },
+      "delta_vs_eig": 0.44,
+      "ci95": [
+        0.3533,
+        0.52
+      ],
+      "p_mcnemar": 4.211447813748381e-18,
+      "significant": true
+    },
+    {
+      "budget": 15,
+      "strategy": "worst-source",
+      "accuracy": 0.1533,
+      "tool_mix": {
+        "retrieve_text": 1.0,
+        "verify_herb": 0.0
+      },
+      "delta_vs_eig": 0.64,
+      "ci95": [
+        0.56,
+        0.72
+      ],
+      "p_mcnemar": 7.969072864542661e-27,
+      "significant": true
+    },
+    {
+      "budget": 20,
+      "strategy": "eig-source",
+      "accuracy": 0.8667,
+      "tool_mix": {
+        "ask_patient": 0.76,
+        "query_kg": 0.24,
+        "retrieve_text": 0.0,
+        "verify_herb": 0.01
+      }
+    },
+    {
+      "budget": 20,
+      "strategy": "decoupled-eig",
+      "accuracy": 0.9067,
+      "tool_mix": {
+        "ask_patient": 0.76,
+        "query_kg": 0.17,
+        "retrieve_text": 0.07,
+        "verify_herb": 0.0
+      },
+      "delta_vs_eig": -0.04,
+      "ci95": [
+        -0.08,
+        0.0
+      ],
+      "p_mcnemar": 0.109375,
+      "significant": false
+    },
+    {
+      "budget": 20,
+      "strategy": "random-source",
+      "accuracy": 0.7,
+      "tool_mix": {
+        "ask_patient": 0.45,
+        "query_kg": 0.08,
+        "retrieve_text": 0.47,
+        "verify_herb": 0.0
+      },
+      "delta_vs_eig": 0.1667,
+      "ci95": [
+        0.1,
+        0.2333
+      ],
+      "p_mcnemar": 1.0928604751825333e-05,
+      "significant": true
+    },
+    {
+      "budget": 20,
+      "strategy": "fixed-patient",
+      "accuracy": 0.94,
+      "tool_mix": {
+        "ask_patient": 0.98,
+        "query_kg": 0.02,
+        "retrieve_text": 0.0,
+        "verify_herb": 0.0
+      },
+      "delta_vs_eig": -0.0733,
+      "ci95": [
+        -0.12,
+        -0.0333
+      ],
+      "p_mcnemar": 0.00341796875,
+      "significant": true
+    },
+    {
+      "budget": 20,
+      "strategy": "fixed-cheapest",
+      "accuracy": 0.4333,
+      "tool_mix": {
+        "query_kg": 0.22,
+        "retrieve_text": 0.78,
+        "verify_herb": 0.0
+      },
+      "delta_vs_eig": 0.4333,
+      "ci95": [
+        0.3533,
+        0.5133
+      ],
+      "p_mcnemar": 5.421010862427522e-20,
+      "significant": true
+    },
+    {
+      "budget": 20,
+      "strategy": "worst-source",
+      "accuracy": 0.22,
+      "tool_mix": {
+        "retrieve_text": 0.99,
+        "verify_herb": 0.01
+      },
+      "delta_vs_eig": 0.6467,
+      "ci95": [
+        0.5667,
+        0.7267
+      ],
+      "p_mcnemar": 3.593419195462753e-26,
+      "significant": true
+    }
+  ],
+  "summary": {
+    "mean_best_worst_spread": 0.6445,
+    "n_strategies_eig_significantly_beats": 10,
+    "n_comparisons": 15
+  },
+  "elapsed_seconds": 614.3
+}

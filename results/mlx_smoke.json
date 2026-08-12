@@ -1,0 +1,11 @@
+{
+  "repo": "mlx-community/Qwen3-4B-4bit",
+  "tier": "qwen3-4b-4bit",
+  "load_seconds": 1.56,
+  "prompt": "In Ayurveda, name the three doshas. Answer with only the three names, comma separated.",
+  "completion": "Vata, Pitta, Kapha",
+  "prompt_tokens": 33,
+  "completion_tokens": 9,
+  "generate_seconds": 0.794,
+  "tokens_per_second": 11.34
+}

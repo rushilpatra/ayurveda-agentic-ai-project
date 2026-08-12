@@ -1,0 +1,38 @@
+{
+  "stage": "structured-misspecified",
+  "config": {
+    "name": "structured-misspecified",
+    "n_cases": 5000,
+    "max_questions": 20,
+    "tau": 0.5,
+    "noise": 0.15,
+    "omission_rate": 0.25,
+    "seed": 0,
+    "assumed_noise": 0.05
+  },
+  "n_conditions": 446,
+  "n_features": 977,
+  "keep_min": 2,
+  "agents": [
+    "B1-full-information",
+    "B4-prior-only",
+    "B3-random",
+    "B5-greedy-frequency",
+    "B7-max-eig",
+    "B8-max-eig-no-abstain"
+  ],
+  "runs_completed": 30000,
+  "runs_expected": 30000,
+  "runs_this_session": 30000,
+  "elapsed_seconds": 5030.9,
+  "seconds_per_run": 0.1677,
+  "stopped_early": false,
+  "reason": "completed",
+  "peak_rss_gb": 0.5,
+  "environment": {
+    "chip": "Apple M4",
+    "memory_gb": 16.0,
+    "os_version": "15.6.1"
+  },
+  "trajectories": "results/checkpoints/structured-misspecified_trajectories.jsonl"
+}

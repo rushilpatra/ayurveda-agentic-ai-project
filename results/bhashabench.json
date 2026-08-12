@@ -1,0 +1,323 @@
+{
+  "en": {
+    "language": "en",
+    "n": 400,
+    "accuracy": 0.4825,
+    "accuracy_parsed_only": 0.4837,
+    "n_parsed": 399,
+    "chance_level": 0.25,
+    "chance_corrected_accuracy": 0.31,
+    "unparsed_rate": 0.0025,
+    "by_domain": {
+      "Administration, AYUSH & Miscellaneous": {
+        "n": 3,
+        "accuracy": 0.6667
+      },
+      "Agad Tantra & Forensic Medicine": {
+        "n": 15,
+        "accuracy": 0.4
+      },
+      "Ayurvedic Literature & History": {
+        "n": 4,
+        "accuracy": 0.5
+      },
+      "Dravyaguna & Bhaishajya": {
+        "n": 81,
+        "accuracy": 0.5309
+      },
+      "Kaumarbhritya & Pediatrics": {
+        "n": 21,
+        "accuracy": 0.619
+      },
+      "Kayachikitsa (General Medicine & Internal Medicine in Ayurveda)": {
+        "n": 83,
+        "accuracy": 0.5542
+      },
+      "Panchakarma & Rasayana": {
+        "n": 36,
+        "accuracy": 0.3333
+      },
+      "Research & Statistics": {
+        "n": 6,
+        "accuracy": 0.5
+      },
+      "Roga Vigyana (Diagnostics & Pathology)": {
+        "n": 3,
+        "accuracy": 1.0
+      },
+      "Samhita & Siddhanta (Fundamentals)": {
+        "n": 38,
+        "accuracy": 0.2895
+      },
+      "Shalakya Tantra (ENT, Eye, Dentistry)": {
+        "n": 19,
+        "accuracy": 0.6316
+      },
+      "Shalya Tantra (Surgery)": {
+        "n": 14,
+        "accuracy": 0.4286
+      },
+      "Sharir (Anatomy & Physiology)": {
+        "n": 37,
+        "accuracy": 0.3784
+      },
+      "Stri Roga & Prasuti Tantra (Gynecology & Obstetrics)": {
+        "n": 22,
+        "accuracy": 0.4545
+      },
+      "Swasthavritta & Public Health": {
+        "n": 13,
+        "accuracy": 0.5385
+      },
+      "Yoga & Psychology": {
+        "n": 5,
+        "accuracy": 0.6
+      }
+    },
+    "by_level": {
+      "Easy": {
+        "n": 220,
+        "accuracy": 0.5318
+      },
+      "Hard": {
+        "n": 14,
+        "accuracy": 0.3571
+      },
+      "Medium": {
+        "n": 166,
+        "accuracy": 0.4277
+      }
+    },
+    "mean_seconds": 0.497
+  },
+  "hi": {
+    "language": "hi",
+    "n": 400,
+    "accuracy": 0.32,
+    "accuracy_parsed_only": 0.3377,
+    "n_parsed": 379,
+    "chance_level": 0.25,
+    "chance_corrected_accuracy": 0.0933,
+    "unparsed_rate": 0.0525,
+    "by_domain": {
+      "Administration, AYUSH & Miscellaneous": {
+        "n": 4,
+        "accuracy": 0.25
+      },
+      "Agad Tantra & Forensic Medicine": {
+        "n": 17,
+        "accuracy": 0.2941
+      },
+      "Ayurvedic Literature & History": {
+        "n": 7,
+        "accuracy": 0.4286
+      },
+      "Dravyaguna & Bhaishajya": {
+        "n": 77,
+        "accuracy": 0.2338
+      },
+      "Kaumarbhritya & Pediatrics": {
+        "n": 17,
+        "accuracy": 0.5294
+      },
+      "Kayachikitsa (General Medicine & Internal Medicine in Ayurveda)": {
+        "n": 85,
+        "accuracy": 0.3059
+      },
+      "Panchakarma & Rasayana": {
+        "n": 33,
+        "accuracy": 0.2424
+      },
+      "Research & Statistics": {
+        "n": 4,
+        "accuracy": 0.25
+      },
+      "Roga Vigyana (Diagnostics & Pathology)": {
+        "n": 2,
+        "accuracy": 0.5
+      },
+      "Samhita & Siddhanta (Fundamentals)": {
+        "n": 47,
+        "accuracy": 0.3191
+      },
+      "Shalakya Tantra (ENT, Eye, Dentistry)": {
+        "n": 20,
+        "accuracy": 0.35
+      },
+      "Shalya Tantra (Surgery)": {
+        "n": 15,
+        "accuracy": 0.4
+      },
+      "Sharir (Anatomy & Physiology)": {
+        "n": 34,
+        "accuracy": 0.3235
+      },
+      "Stri Roga & Prasuti Tantra (Gynecology & Obstetrics)": {
+        "n": 24,
+        "accuracy": 0.4167
+      },
+      "Swasthavritta & Public Health": {
+        "n": 10,
+        "accuracy": 0.6
+      },
+      "Yoga & Psychology": {
+        "n": 4,
+        "accuracy": 0.25
+      }
+    },
+    "by_level": {
+      "Easy": {
+        "n": 204,
+        "accuracy": 0.348
+      },
+      "Hard": {
+        "n": 22,
+        "accuracy": 0.2727
+      },
+      "Medium": {
+        "n": 174,
+        "accuracy": 0.2931
+      }
+    },
+    "mean_seconds": 0.846
+  },
+  "language_gap": {
+    "n_shared_domains": 16,
+    "weighted_delta_en_minus_hi": 0.1589,
+    "unweighted_delta": 0.1707,
+    "naive_delta_do_not_report": 0.1625,
+    "delta_parsed_only": 0.146,
+    "delta_attributable_to_format": 0.0165,
+    "delta_chance_corrected": 0.2167,
+    "per_domain": [
+      {
+        "domain": "Administration, AYUSH & Miscellaneous",
+        "n_en": 3,
+        "n_hi": 4,
+        "acc_en": 0.6667,
+        "acc_hi": 0.25,
+        "delta": 0.4167
+      },
+      {
+        "domain": "Agad Tantra & Forensic Medicine",
+        "n_en": 15,
+        "n_hi": 17,
+        "acc_en": 0.4,
+        "acc_hi": 0.2941,
+        "delta": 0.1059
+      },
+      {
+        "domain": "Ayurvedic Literature & History",
+        "n_en": 4,
+        "n_hi": 7,
+        "acc_en": 0.5,
+        "acc_hi": 0.4286,
+        "delta": 0.0714
+      },
+      {
+        "domain": "Dravyaguna & Bhaishajya",
+        "n_en": 81,
+        "n_hi": 77,
+        "acc_en": 0.5309,
+        "acc_hi": 0.2338,
+        "delta": 0.2971
+      },
+      {
+        "domain": "Kaumarbhritya & Pediatrics",
+        "n_en": 21,
+        "n_hi": 17,
+        "acc_en": 0.619,
+        "acc_hi": 0.5294,
+        "delta": 0.0896
+      },
+      {
+        "domain": "Kayachikitsa (General Medicine & Internal Medicine in Ayurveda)",
+        "n_en": 83,
+        "n_hi": 85,
+        "acc_en": 0.5542,
+        "acc_hi": 0.3059,
+        "delta": 0.2483
+      },
+      {
+        "domain": "Panchakarma & Rasayana",
+        "n_en": 36,
+        "n_hi": 33,
+        "acc_en": 0.3333,
+        "acc_hi": 0.2424,
+        "delta": 0.0909
+      },
+      {
+        "domain": "Research & Statistics",
+        "n_en": 6,
+        "n_hi": 4,
+        "acc_en": 0.5,
+        "acc_hi": 0.25,
+        "delta": 0.25
+      },
+      {
+        "domain": "Roga Vigyana (Diagnostics & Pathology)",
+        "n_en": 3,
+        "n_hi": 2,
+        "acc_en": 1.0,
+        "acc_hi": 0.5,
+        "delta": 0.5
+      },
+      {
+        "domain": "Samhita & Siddhanta (Fundamentals)",
+        "n_en": 38,
+        "n_hi": 47,
+        "acc_en": 0.2895,
+        "acc_hi": 0.3191,
+        "delta": -0.0296
+      },
+      {
+        "domain": "Shalakya Tantra (ENT, Eye, Dentistry)",
+        "n_en": 19,
+        "n_hi": 20,
+        "acc_en": 0.6316,
+        "acc_hi": 0.35,
+        "delta": 0.2816
+      },
+      {
+        "domain": "Shalya Tantra (Surgery)",
+        "n_en": 14,
+        "n_hi": 15,
+        "acc_en": 0.4286,
+        "acc_hi": 0.4,
+        "delta": 0.0286
+      },
+      {
+        "domain": "Sharir (Anatomy & Physiology)",
+        "n_en": 37,
+        "n_hi": 34,
+        "acc_en": 0.3784,
+        "acc_hi": 0.3235,
+        "delta": 0.0549
+      },
+      {
+        "domain": "Stri Roga & Prasuti Tantra (Gynecology & Obstetrics)",
+        "n_en": 22,
+        "n_hi": 24,
+        "acc_en": 0.4545,
+        "acc_hi": 0.4167,
+        "delta": 0.0378
+      },
+      {
+        "domain": "Swasthavritta & Public Health",
+        "n_en": 13,
+        "n_hi": 10,
+        "acc_en": 0.5385,
+        "acc_hi": 0.6,
+        "delta": -0.0615
+      },
+      {
+        "domain": "Yoga & Psychology",
+        "n_en": 5,
+        "n_hi": 4,
+        "acc_en": 0.6,
+        "acc_hi": 0.25,
+        "delta": 0.35
+      }
+    ]
+  }
+}

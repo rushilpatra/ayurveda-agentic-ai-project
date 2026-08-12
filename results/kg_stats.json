@@ -1,0 +1,37 @@
+{
+  "n_triples": 6249,
+  "relations": {
+    "pacifies": 655,
+    "aggravates": 402,
+    "indicated_for": 1738,
+    "has_rasa": 565,
+    "has_guna": 636,
+    "has_virya": 360,
+    "has_vipaka": 360,
+    "involves_dosha": 678,
+    "prakriti": 446,
+    "treated_by_gold": 292,
+    "has_classical_term": 117
+  },
+  "sources": {
+    "amidha": 4716,
+    "ayurgenix": 1416,
+    "nosology:exact": 17,
+    "nosology:broad": 13,
+    "nosology:approximate": 27,
+    "nosology:close": 60
+  },
+  "n_herbs": 360,
+  "two_hop_evaluation": {
+    "n_conditions_evaluated": 139,
+    "n_candidate_herbs": 360,
+    "hit@1": 0.0647,
+    "hit@5": 0.1295,
+    "hit@10": 0.1727,
+    "hit@20": 0.3309,
+    "median_rank": 32.0,
+    "mean_reciprocal_rank": 0.1156,
+    "random_hit@10_baseline": 0.0278
+  },
+  "ayurkosh_available": false
+}

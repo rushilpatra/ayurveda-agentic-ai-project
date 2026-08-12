@@ -1,0 +1,129 @@
+{
+  "tag": "exclusive",
+  "exclusive_channels": true,
+  "channel_scope": {
+    "ask_patient": 962,
+    "query_kg": 15,
+    "retrieve_text": 977,
+    "verify_herb": 350
+  },
+  "config": {
+    "n": 200,
+    "budgets": [
+      5,
+      10,
+      15,
+      20,
+      30
+    ],
+    "noise": 0.05,
+    "omission": 0.1,
+    "exclusive": true,
+    "tag": null
+  },
+  "rows": [
+    {
+      "budget_actions": 5,
+      "n": 200,
+      "all_sources_accuracy": 0.16,
+      "patient_only_accuracy": 0.135,
+      "delta": 0.025,
+      "ci95": [
+        -0.015,
+        0.065
+      ],
+      "p_mcnemar": 0.332305908203125,
+      "significant": false,
+      "non_patient_share": 0.762,
+      "tool_mix": {
+        "ask_patient": 0.238,
+        "query_kg": 0.762
+      }
+    },
+    {
+      "budget_actions": 10,
+      "n": 200,
+      "all_sources_accuracy": 0.59,
+      "patient_only_accuracy": 0.57,
+      "delta": 0.02,
+      "ci95": [
+        -0.065,
+        0.105
+      ],
+      "p_mcnemar": 0.7310088822226052,
+      "significant": false,
+      "non_patient_share": 0.437,
+      "tool_mix": {
+        "ask_patient": 0.563,
+        "query_kg": 0.436,
+        "verify_herb": 0.001
+      }
+    },
+    {
+      "budget_actions": 15,
+      "n": 200,
+      "all_sources_accuracy": 0.77,
+      "patient_only_accuracy": 0.81,
+      "delta": -0.04,
+      "ci95": [
+        -0.11,
+        0.03
+      ],
+      "p_mcnemar": 0.3317497633694906,
+      "significant": false,
+      "non_patient_share": 0.306,
+      "tool_mix": {
+        "ask_patient": 0.694,
+        "query_kg": 0.305,
+        "verify_herb": 0.001
+      }
+    },
+    {
+      "budget_actions": 20,
+      "n": 200,
+      "all_sources_accuracy": 0.89,
+      "patient_only_accuracy": 0.915,
+      "delta": -0.025,
+      "ci95": [
+        -0.08,
+        0.025
+      ],
+      "p_mcnemar": 0.45825831964612007,
+      "significant": false,
+      "non_patient_share": 0.252,
+      "tool_mix": {
+        "ask_patient": 0.748,
+        "query_kg": 0.243,
+        "retrieve_text": 0.002,
+        "verify_herb": 0.006
+      }
+    },
+    {
+      "budget_actions": 30,
+      "n": 200,
+      "all_sources_accuracy": 0.975,
+      "patient_only_accuracy": 0.98,
+      "delta": -0.005,
+      "ci95": [
+        -0.03,
+        0.02
+      ],
+      "p_mcnemar": 1.0,
+      "significant": false,
+      "non_patient_share": 0.249,
+      "tool_mix": {
+        "ask_patient": 0.751,
+        "query_kg": 0.175,
+        "retrieve_text": 0.041,
+        "verify_herb": 0.033
+      }
+    }
+  ],
+  "summary": {
+    "n_significant_positive": 0,
+    "n_budgets": 5,
+    "mean_delta": -0.005,
+    "interpretation": "advantage is primarily economic, not selection"
+  },
+  "elapsed_seconds": 748.1
+}

@@ -1,0 +1,204 @@
+{
+  "config": {
+    "n": 120,
+    "max_cost": 15.0,
+    "noise": 0.05,
+    "omission": 0.1,
+    "ratios": null
+  },
+  "ratios": [
+    0.02,
+    0.05,
+    0.1,
+    0.25,
+    0.5,
+    0.75,
+    1.0,
+    2.0
+  ],
+  "rows": [
+    {
+      "cost_ratio": 0.02,
+      "n": 120,
+      "tool_eig_accuracy": 0.8917,
+      "patient_only_accuracy": 0.775,
+      "delta": 0.1167,
+      "ci95": [
+        0.0333,
+        0.2083
+      ],
+      "p_mcnemar": 0.016124801710247993,
+      "significant": true,
+      "tool_mean_patient_questions": 3.78,
+      "tool_mix": {
+        "ask_patient": 0.007,
+        "query_kg": 0.019,
+        "retrieve_text": 0.907,
+        "verify_herb": 0.067
+      },
+      "non_patient_action_share": 0.993
+    },
+    {
+      "cost_ratio": 0.05,
+      "n": 120,
+      "tool_eig_accuracy": 0.8917,
+      "patient_only_accuracy": 0.775,
+      "delta": 0.1167,
+      "ci95": [
+        0.0333,
+        0.2083
+      ],
+      "p_mcnemar": 0.016124801710247993,
+      "significant": true,
+      "tool_mean_patient_questions": 0.11,
+      "tool_mix": {
+        "ask_patient": 0.0,
+        "query_kg": 0.034,
+        "retrieve_text": 0.934,
+        "verify_herb": 0.032
+      },
+      "non_patient_action_share": 1.0
+    },
+    {
+      "cost_ratio": 0.1,
+      "n": 120,
+      "tool_eig_accuracy": 0.8917,
+      "patient_only_accuracy": 0.775,
+      "delta": 0.1167,
+      "ci95": [
+        0.0333,
+        0.2083
+      ],
+      "p_mcnemar": 0.016124801710247993,
+      "significant": true,
+      "tool_mean_patient_questions": 0.0,
+      "tool_mix": {
+        "query_kg": 0.059,
+        "retrieve_text": 0.909,
+        "verify_herb": 0.032
+      },
+      "non_patient_action_share": 1.0
+    },
+    {
+      "cost_ratio": 0.25,
+      "n": 120,
+      "tool_eig_accuracy": 0.8083,
+      "patient_only_accuracy": 0.775,
+      "delta": 0.0333,
+      "ci95": [
+        -0.05,
+        0.1167
+      ],
+      "p_mcnemar": 0.5715881884098053,
+      "significant": false,
+      "tool_mean_patient_questions": 7.03,
+      "tool_mix": {
+        "ask_patient": 0.18,
+        "query_kg": 0.156,
+        "retrieve_text": 0.632,
+        "verify_herb": 0.032
+      },
+      "non_patient_action_share": 0.82
+    },
+    {
+      "cost_ratio": 0.5,
+      "n": 120,
+      "tool_eig_accuracy": 0.875,
+      "patient_only_accuracy": 0.775,
+      "delta": 0.1,
+      "ci95": [
+        0.0333,
+        0.1667
+      ],
+      "p_mcnemar": 0.007537841796875,
+      "significant": true,
+      "tool_mean_patient_questions": 11.85,
+      "tool_mix": {
+        "ask_patient": 0.653,
+        "query_kg": 0.293,
+        "retrieve_text": 0.023,
+        "verify_herb": 0.031
+      },
+      "non_patient_action_share": 0.347
+    },
+    {
+      "cost_ratio": 0.75,
+      "n": 120,
+      "tool_eig_accuracy": 0.8,
+      "patient_only_accuracy": 0.775,
+      "delta": 0.025,
+      "ci95": [
+        -0.0333,
+        0.0917
+      ],
+      "p_mcnemar": 0.60723876953125,
+      "significant": false,
+      "tool_mean_patient_questions": 10.87,
+      "tool_mix": {
+        "ask_patient": 0.67,
+        "query_kg": 0.312,
+        "retrieve_text": 0.011,
+        "verify_herb": 0.007
+      },
+      "non_patient_action_share": 0.33
+    },
+    {
+      "cost_ratio": 1.0,
+      "n": 120,
+      "tool_eig_accuracy": 0.8,
+      "patient_only_accuracy": 0.775,
+      "delta": 0.025,
+      "ci95": [
+        -0.0417,
+        0.0917
+      ],
+      "p_mcnemar": 0.629058837890625,
+      "significant": false,
+      "tool_mean_patient_questions": 10.35,
+      "tool_mix": {
+        "ask_patient": 0.69,
+        "query_kg": 0.31
+      },
+      "non_patient_action_share": 0.31
+    },
+    {
+      "cost_ratio": 2.0,
+      "n": 120,
+      "tool_eig_accuracy": 0.775,
+      "patient_only_accuracy": 0.775,
+      "delta": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ],
+      "p_mcnemar": 1.0,
+      "significant": false,
+      "tool_mean_patient_questions": 14.98,
+      "tool_mix": {
+        "ask_patient": 0.999,
+        "query_kg": 0.001
+      },
+      "non_patient_action_share": 0.001
+    }
+  ],
+  "summary": {
+    "min_delta": 0.0,
+    "max_delta": 0.1167,
+    "n_points_significant_positive": 4,
+    "n_points": 8,
+    "all_cheap_ratios_positive": true,
+    "delta_when_tools_not_cheaper": [
+      {
+        "ratio": 1.0,
+        "delta": 0.025,
+        "significant": false
+      },
+      {
+        "ratio": 2.0,
+        "delta": 0.0,
+        "significant": false
+      }
+    ]
+  },
+  "elapsed_seconds": 4157.2
+}
